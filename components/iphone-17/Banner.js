@@ -7,7 +7,7 @@ import Link from "next/link";
 const Banner = () => {
   return (
     <div>
-      {/* Top notification bar */}
+      {/* Top notification bar  t*/}
       <div className="bg-[#F5F5F7] flex flex-col sm:flex-row items-center justify-center gap-2 sm:gap-4 p-3 sm:p-2">
         <span className="font-normal text-xs sm:text-sm tracking-[-0.22px] text-primary text-center">
           Last chance to find something special for your special someone this
