@@ -1,0 +1,85 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --primary: #222222;
+  --secondary: #ffffff;
+  --font-sf-pro: "SF Pro Display", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Helvetica, Arial, sans-serif;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-dm-sans);
+  --font-sfpro: var(--font-sf-pro); /* Extra: SF Pro Display */
+  --color-primary: var(--primary);
+  --color-secondary: var(--secondary);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  font-weight: 500;
+}
+
+.custom-iframe {
+  border-radius: 12px;
+  iframe {
+    border-radius: 12px;
+  }
+}
+
+.text-gradient {
+  background: linear-gradient(
+    90deg,
+    #a977c8 0%,
+    #6f8cc7 17%,
+    #639a47 33%,
+    #1d1d1f 50.01%,
+    #1d1d1f 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+.product-gradient-text{
+  background: linear-gradient(0deg, #7A8FA4 0%, #1D1D1F 70%);
+ -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+.product-gradient-green-text{
+  background: linear-gradient(103.39deg, #139A26 0%, #2696D2 100%);
+ -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+
+.product-gradient-pink-text{
+  background: linear-gradient(106.53deg, #915CF0 0%, #FF3434 100%);
+ -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+.macbook-gradient-text{
+  background: linear-gradient(90deg, #AC299B 0%, #F1439C 100%);
+ -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}

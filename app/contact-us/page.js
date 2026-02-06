@@ -1,0 +1,28 @@
+import React from "react";
+import ConnectBanner from "@/components/common/ConnectBanner";
+import GetHelp from "@/components/contact-us/GetHelp";
+import Stats from "@/components/contact-us/Stats";
+import FormSection from "@/components/contact-us/FormSection";
+import ContactTimeline from "@/components/contact-us/ContactTimeline";
+import AboutUs from "@/components/contact-us/AboutUs";
+import Rating from "@/components/common/Rating";
+import ContactFormWithMap from "@/components/contact-us/ContactFormWithMap";
+import ContactInfoSection from "@/components/contact-us/ContactInfoSection";
+
+const Page = () => {
+  return (
+    <div>
+      <GetHelp />
+      <Stats />
+      <ContactFormWithMap />
+      <ContactInfoSection />
+      {/* <FormSection /> */}
+      {/* <ContactTimeline /> */}
+      {/* <AboutUs /> */}
+      {/* <Rating /> */}
+      <ConnectBanner />
+    </div>
+  );
+};
+
+export default Page;
