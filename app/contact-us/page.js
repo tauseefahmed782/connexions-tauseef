@@ -6,6 +6,7 @@ import FormSection from "@/components/contact-us/FormSection";
 import ContactTimeline from "@/components/contact-us/ContactTimeline";
 import AboutUs from "@/components/contact-us/AboutUs";
 import Rating from "@/components/common/Rating";
+import CalendyFormWithmap from "@/components/contact-us/CalendyFormWithmap";
 import ContactFormWithMap from "@/components/contact-us/ContactFormWithMap";
 import ContactInfoSection from "@/components/contact-us/ContactInfoSection";
 
@@ -14,7 +15,8 @@ const Page = () => {
     <div>
       <GetHelp />
       <Stats />
-      <ContactFormWithMap />
+      <CalendyFormWithmap/>
+      {/* <ContactFormWithMap /> */}
       <ContactInfoSection />
       {/* <FormSection /> */}
       {/* <ContactTimeline /> */}
