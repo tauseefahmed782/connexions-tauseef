@@ -57,7 +57,7 @@ export default function PhoneLaunchSlider() {
 
                 {/* Slide 2 */}
                 <SwiperSlide>
-                    <div className="flex  justify-center h-full ">
+                    <div className="flex items-start xl:items-center lg:items-center md:items-center justify-center h-full ">
                         <div className="grid grid-cols-1 md:grid-cols-[35%_65%]  gap-8">
                             
                             <div>
@@ -74,7 +74,7 @@ export default function PhoneLaunchSlider() {
       </span>
 
     </div>
-                                <h1 className="text-black mt-2 font-medium text-3xl md:text-4xl lg:text-7xl font-inter leading-tight mb-6">
+                                <h1 className="text-black font-medium text-3xl md:text-4xl lg:text-7xl font-inter leading-tight mb-6">
               We have the MacBook you need.
             </h1>
 
