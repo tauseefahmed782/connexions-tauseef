@@ -75,7 +75,7 @@ export default function ContactInfoSection() {
                   <p className="text-xl md:text-2xl font-medium text-[#444444] mb-1">
                     Address
                   </p>
-                  <p className="text-lg font-medium">Mumbai, India</p>
+                  <p className="text-lg font-medium">351, Ankita Chamber, Chhatrapati Shivaji Maharaj Rd, opposite Gadikhana Hospital, Shukrawar Peth, Pune, Maharashtra 411002</p>
                 </div>
               </div>
             </div>

@@ -1,38 +1,36 @@
 import React from "react";
 import ContactUsBg from "@/public/assets/contact-us-bg.webp";
-import Image from "next/image";
-import { ArrowRight } from "lucide-react";
-import CommonImage from "../common/CommonImage";
 
 const GetHelp = () => {
   return (
-    <div className="relative w-full">
-      {/* Background Image */}
-      <CommonImage
-        src={ContactUsBg.src || ContactUsBg} // Handle both static imports and direct paths
-        alt="Contact Us Background"
-        className="w-full h-auto"
-        style={{ objectFit: "contain" }}
-      />
+    <div
+      className="
+        relative w-full
+        h-[420px] sm:h-[500px] md:h-[600px] lg:h-[650px]
+        bg-cover bg-center
+        flex items-center
+      "
+      style={{
+        backgroundImage: `url(${ContactUsBg.src})`,
+      }}
+    >
+      {/* Optional Dark Overlay */}
+      <div className="absolute inset-0 bg-black/40"></div>
 
-      {/* Overlay Content */}
-      <div
-        className="
-          flex flex-col gap-6 px-6 py-8
-          text-primary
-          md:text-white md:absolute md:inset-0 md:justify-center md:items-start md:px-20
-          max-w-3xl
-        "
-      >
-        <span className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-semibold">
+      {/* Content */}
+      <div className="relative z-10 px-6 sm:px-10 md:px-16 lg:px-20 max-w-3xl text-white flex flex-col gap-4 sm:gap-6">
+        
+        <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-semibold leading-tight">
           Get help from the <br /> expert consultants.
-        </span>
-        <span className="text-sm sm:text-base md:text-lg lg:text-xl">
+        </h2>
+
+        <p className="text-sm sm:text-base md:text-lg lg:text-xl leading-relaxed">
           Whether you're exploring enterprise IT solutions, planning a
           large-scale deployment, or need expert consultation, Connexions is
-          here to support you, Our team helps organisation simplify technology
+          here to support you. Our team helps organisations simplify technology
           adoption, optimize workflows, and achieve seamless integration.
-        </span>
+        </p>
+
       </div>
     </div>
   );

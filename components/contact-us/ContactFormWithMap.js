@@ -58,12 +58,11 @@ export default function ContactFormWithMap() {
                 <div>
                   <label
                     htmlFor="name"
-                    className="block text-base font-normal mb-2 text-[#444444]"
+                    className="block text-base font-normal  mb-2 text-[#444444]"
                   >
                     Name
                   </label>
                   <div className="relative">
-                    <User className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-[#999999]" />
                     <input
                       type="text"
                       id="name"
@@ -71,7 +70,7 @@ export default function ContactFormWithMap() {
                       value={formData.name}
                       onChange={handleChange}
                       placeholder="Enter Your Full Name"
-                      className="w-full pl-11 pr-4 py-3 text-primary border border-[#999999] rounded-lg focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
+                      className="w-full  px-4 py-3 text-primary bg-[#FBFBFB] rounded-lg focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
                     />
                   </div>
                 </div>
@@ -82,14 +81,14 @@ export default function ContactFormWithMap() {
                   >
                     Purpose
                   </label>
-                  <div className="relative">
+                  <div className="relative ">
                     <ChevronDown className="absolute right-3 top-1/2 -translate-y-1/2 w-5 h-5 text-[#999999] pointer-events-none" />
                     <select
                       id="purpose"
                       name="purpose"
                       value={formData.purpose}
                       onChange={handleChange}
-                      className="w-full px-4 py-3 text-primary border border-[#999999] rounded-lg focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent appearance-none bg-white"
+                      className="w-full px-4 py-3 text-primary bg-[#FBFBFB] rounded-lg focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent appearance-none "
                     >
                       <option value="">Select Your Purpose...</option>
                       <option value="general">General Inquiry</option>
@@ -110,7 +109,6 @@ export default function ContactFormWithMap() {
                   Email Address
                 </label>
                 <div className="relative">
-                  <Mail className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-[#999999]" />
                   <input
                     type="email"
                     id="email"
@@ -118,7 +116,7 @@ export default function ContactFormWithMap() {
                     value={formData.email}
                     onChange={handleChange}
                     placeholder="Enter Your Email"
-                    className="w-full pl-11 pr-4 py-3 text-primary border border-[#999999] rounded-lg focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
+                    className="w-full bg-[#FBFBFB] px-4 py-3 text-primary  rounded-lg focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
                   />
                 </div>
               </div>
@@ -132,7 +130,6 @@ export default function ContactFormWithMap() {
                   Inquiry Message
                 </label>
                 <div className="relative">
-                  <MessageSquare className="absolute left-3 top-3 w-5 h-5 text-[#999999]" />
                   <textarea
                     id="message"
                     name="message"
@@ -140,7 +137,7 @@ export default function ContactFormWithMap() {
                     onChange={handleChange}
                     placeholder="Tell us briefly what you're looking for..."
                     rows="4"
-                    className="w-full pl-11 pr-4 py-3 text-primary border border-[#999999] rounded-lg focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent resize-none"
+                    className="w-full px-4 py-3 text-primary  rounded-lg focus:outline-none focus:ring-2 bg-[#FBFBFB] focus:ring-primary focus:border-transparent resize-none"
                   ></textarea>
                 </div>
               </div>
@@ -148,7 +145,7 @@ export default function ContactFormWithMap() {
               {/* Submit Button */}
               <button
                 onClick={handleSubmit}
-                className="bg-primary text-white px-8 py-3 rounded-full cursor-pointer font-medium"
+                className="bg-[linear-gradient(95.77deg,#4D4D4D_0%,#000000_100%)] text-white px-8 py-3 rounded-full cursor-pointer font-medium"
               >
                 Send Message
               </button>
@@ -158,7 +155,7 @@ export default function ContactFormWithMap() {
           {/* Right Side - Map */}
           <div className="w-full h-[400px] lg:h-[600px] rounded-2xl overflow-hidden shadow-lg">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d241316.6118508124!2d72.71637033388484!3d19.082177517429477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c6306644edc1%3A0x5da4ed8f8d648c69!2sMumbai%2C%20Maharashtra%2C%20India!5e0!3m2!1sen!2sin!4v1234567890123!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.371722077797!2d73.8577512!3d18.5120968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c06ceb4f13cd%3A0x82ab1593050e3567!2sConnexions!5e0!3m2!1sen!2sin!4v1771075195660!5m2!1sen!2sin"
               width="100%"
               height="100%"
               style={{ border: 0 }}
