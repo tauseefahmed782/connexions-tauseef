@@ -75,12 +75,12 @@ export default function PhoneLaunchSlider() {
 
     </div>
                                 <h1 className="text-black font-medium text-3xl md:text-4xl lg:text-7xl font-inter leading-tight mb-6">
-              We have the MacBook you need.
+             Built for business
             </h1>
 
             {/* Description */}
             <p className="text-[#7C7C7C] tracking-tight mb-8 font-normal text-base md:text-lg">
-              Vaultly helps you track, save, and invest, all from one beautiful, secure dashboard. 
+Empower your teams with speed, reliability, and enterprise-grade security all in one seamless ecosystem.
             </p>
 
             {/* Buttons */}
