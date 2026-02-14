@@ -8,7 +8,7 @@ import CommonImage from "../common/CommonImage";
 
 import CardBg1 from "@/public/assets/home-about-us-card-img-1.svg";
 import CardBg2 from "@/public/assets/home-about-us-card-img-2.svg";
-import CardBg3 from "@/public/assets/home-about-us-card-img-3.svg";
+import CardBg3 from "@/public/assets/home-about-banner6.svg";
 import CardBg4 from "@/public/assets/home-about-us-card-img-4.svg";
 import TitleIcon from "@/public/assets/faq-icon.svg";
 
@@ -174,7 +174,7 @@ const AboutUsShowcase = () => {
           >
             {showcaseCards.map((card, index) => (
               <SwiperSlide key={index}>
-                <div className="relative rounded-2xl min-h-120 overflow-hidden">
+                <div className="relative rounded-2xl min-h-170 overflow-hidden">
                   {/* Background Image fills container completely */}
                   {card.backgroundImage && (
                     <CommonImage
