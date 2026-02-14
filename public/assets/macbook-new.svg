@@ -1,11 +1,11 @@
-<svg width="931" height="525" viewBox="0 0 931 525" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect x="51" width="802" height="878" fill="url(#pattern0_19_58)"/>
-<rect y="380" width="931" height="150" fill="url(#paint0_linear_19_58)"/>
+<svg width="931" height="502" viewBox="0 0 931 502" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="51" width="802" height="855" fill="url(#pattern0_19_58)"/>
+<rect y="357" width="931" height="150" fill="url(#paint0_linear_19_58)"/>
 <defs>
 <pattern id="pattern0_19_58" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0_19_58" transform="matrix(0.000778538 0 0 0.000711147 -0.13591 -0.178949)"/>
+<use xlink:href="#image0_19_58" transform="matrix(0.000778538 0 0 0.000730277 -0.13591 -0.210663)"/>
 </pattern>
-<linearGradient id="paint0_linear_19_58" x1="465.5" y1="530" x2="465.5" y2="380" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_19_58" x1="465.5" y1="507" x2="465.5" y2="357" gradientUnits="userSpaceOnUse">
 <stop stop-color="white"/>
 <stop offset="1" stop-color="white" stop-opacity="0"/>
 </linearGradient>

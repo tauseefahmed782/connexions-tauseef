@@ -96,7 +96,7 @@ export default function PhoneLaunchSlider() {
             </div>
                             </div>
                             <img
-                                src="/assets/mackbook-new.svg"
+                                src="/assets/macbook-new.svg"
                                 alt="Slide 2"
                                 className="w-full rounded-xl"
                             />
