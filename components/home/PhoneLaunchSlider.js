@@ -61,21 +61,19 @@ export default function PhoneLaunchSlider() {
                         <div className="grid grid-cols-1 md:grid-cols-[35%_65%]  gap-8">
                             
                             <div>
-                              <div className="inline-flex  items-center bg-[##FBFBFB] rounded-full border border-[#D4D4D4A3] px-3 py-2">
+                               {/* <div className="inline-flex  items-center bg-[##FBFBFB] rounded-full border border-[#D4D4D4A3] px-3 py-2">
       
-      {/* Black Badge */}
       <span className="bg-black text-white text-sm font-inter font-medium px-4 py-1 rounded-full">
         New
       </span>
 
-      {/* Text */}
       <span className="ml-3 text-black text-sm font-inter font-medium">
         Smart Finance, Real Freedom.
       </span>
 
-    </div>
+    </div>  */}
                                 <h1 className="text-black font-medium text-3xl md:text-4xl lg:text-7xl font-inter leading-tight mb-6">
-             Built for business
+             MacBook.Built for business
             </h1>
 
             {/* Description */}

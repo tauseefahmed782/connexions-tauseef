@@ -205,12 +205,12 @@ const Header = () => {
         <div className="hidden md:block text-sm">
           {/* Tablet: Two Rows */}
           <div className="block lg:hidden">
-            <div className="flex items-center justify-between mb-2">
+            <div className="flex items-center justify-center mb-2">
               <div className="flex items-center gap-2">
                 {/* <Grid2x2 size={14} />
                 <span>BROWSE ALL CATEGORIES</span> */}
               </div>
-              <div>
+              {/* <div>
                 <Link
                   href="/contact-us"
                   target="_blank"
@@ -219,7 +219,7 @@ const Header = () => {
                 >
                   Buy and Try
                 </Link>
-              </div>
+              </div> */}
             </div>
             <div className="flex justify-center">
               <ul className="flex gap-6 flex-wrap">
@@ -331,7 +331,7 @@ const Header = () => {
           </div>
 
           {/* Desktop: One Row */}
-          <div className="hidden lg:flex items-center justify-between">
+          <div className="hidden lg:flex items-center justify-center">
             <div className="flex items-center gap-2">
               {/* <Grid2x2 size={14} />
               <span>BROWSE ALL CATEGORIES</span> */}
@@ -439,7 +439,7 @@ const Header = () => {
                 );
               })}
             </ul>
-            <div>
+            {/* <div>
               <Link
                 href="/contact-us"
                 target="_blank"
@@ -448,7 +448,7 @@ const Header = () => {
               >
                 Buy and Try
               </Link>
-            </div>
+            </div> */}
           </div>
         </div>
 
@@ -602,7 +602,7 @@ const Header = () => {
           </ul>
 
           {/* Buy and Try */}
-          <div className="px-2 mt-2">
+          {/* <div className="px-2 mt-2">
             <Link
               href="/contact-us"
               target="_blank"
@@ -611,7 +611,7 @@ const Header = () => {
             >
               Buy and Try
             </Link>
-          </div>
+          </div> */}
         </div>
       </div>
     </>
