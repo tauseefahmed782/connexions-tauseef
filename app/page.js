@@ -6,11 +6,13 @@ import AboutUsShowcase from "../components/home/AboutUsShowcase";
 import WhatYouGet from "../components/home/WhatYouGet";
 import ConnectBanner from "../components/common/ConnectBanner";
 import PhoneLaunchPartnersSection from "../components/home/PhoneLaunchPartnersSection";
+import PhoneLaunchSlider from "@/components/home/PhoneLaunchSlider";
 
 export default function Home() {
   return (
     <div className="font-sfpro">
-      <PhoneLaunchPartnersSection />
+      <PhoneLaunchSlider/>
+      {/* <PhoneLaunchPartnersSection /> */}
       <WhatYouGet />
       <FeaturesSlider />
       <AboutUsShowcase />

@@ -72,7 +72,7 @@ const PhoneLaunchPartnersSection = () => {
   ];
 
   return (
-    <div className="bg-white py-16 px-4 sm:px-6 lg:px-20">
+    <div className="bg-white ">
       <div className="max-w-7xl mx-auto">
         {/* Main Content Section */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-20">
@@ -96,7 +96,7 @@ const PhoneLaunchPartnersSection = () => {
             </div> */}
 
             {/* Main Heading */}
-            <h1 className="text-3xl md:text-4xl lg:text-5xl font-medium text-primary leading-tight mb-6">
+                                <h1 className="text-black font-medium text-3xl md:text-4xl lg:text-7xl font-inter leading-tight mb-6">
               The all-new iPhone 17 is finally here!!
             </h1>
 

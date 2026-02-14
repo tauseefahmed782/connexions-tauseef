@@ -9,7 +9,7 @@ import CommonImage from "./CommonImage";
 import Link from "next/link";
 import CalendyForm from "../contact-us/CalendyForm";
 
-const ConnectBanner = () => {
+const ConnectBannerUpdate = () => {
   return (
     <div className="relative overflow-hidden mx-4 sm:mx-10 lg:mx-40 p-6 sm:p-8 lg:p-10 bg-primary flex flex-col xl:flex-row justify-between items-center gap-8 rounded-2xl">
       {/* Left Content */}
