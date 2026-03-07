@@ -1,0 +1,30 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_25_36)">
+<rect x="4.21582" width="50.5846" height="50.5846" rx="25.2923" fill="#E5F0FF"/>
+<g clip-path="url(#clip0_25_36)">
+<g clip-path="url(#clip1_25_36)">
+<path d="M28.2786 16.0723H21.5161C21.027 16.0723 20.5579 16.2666 20.212 16.6124C19.8662 16.9583 19.6719 17.4274 19.6719 17.9165V30.8261H39.344V24.0636" stroke="#3385FF" stroke-width="2.10769" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.2129 30.8262H41.8023V32.056C41.8023 33.0343 41.4137 33.9724 40.722 34.6641C40.0302 35.3559 39.0921 35.7445 38.1138 35.7445H20.9014C19.9231 35.7445 18.9849 35.3559 18.2932 34.6641C17.6015 33.9724 17.2129 33.0343 17.2129 32.056V30.8262Z" stroke="#3385FF" stroke-width="2.10769" stroke-linejoin="round"/>
+<path d="M35.0407 14.8418L32.582 17.3015L35.0407 19.7601M38.7291 14.8418L41.1877 17.3015L38.7291 19.7601" stroke="#3385FF" stroke-width="2.10769" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_25_36" x="0.000435829" y="0" width="59.0157" height="62.1763" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="7.37692"/>
+<feGaussianBlur stdDeviation="2.10769"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.698039 0 0 0 0 0.698039 0 0 0 0 0.698039 0 0 0 0.05 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_25_36"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_25_36" result="shape"/>
+</filter>
+<clipPath id="clip0_25_36">
+<rect width="29.5077" height="29.5077" fill="white" transform="translate(14.7539 10.5391)"/>
+</clipPath>
+<clipPath id="clip1_25_36">
+<rect width="29.5077" height="29.5077" fill="white" transform="translate(14.7539 10.5391)"/>
+</clipPath>
+</defs>
+</svg>
