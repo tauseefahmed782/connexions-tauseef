@@ -82,6 +82,8 @@ const Header = () => {
         { label: "Apple for Enterprise", href: "/apple-for-enterprise" },
         { label: "Apple for Work", href: "/apple-for-work" },
         { label: "Apple Business Manager", href: "/apple-business-manager" },
+        { label: "Apple for Care", href: "/apple-for-care" },
+        { label: "Apple Switch", href: "/apple-switch" },
         {
           label: "Apple Consultant Partner",
           href: "/apple-consultant-partner",
