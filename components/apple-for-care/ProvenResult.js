@@ -33,9 +33,12 @@ const ProvenResult = () => {
 
       {/* Buttons */}
       <div className="flex flex-col sm:flex-row gap-4 mb-10">
-        <button className="bg-[#A6CE39] text-white px-6 py-3 rounded-full text-sm font-normal transition">
+         <Link href={"/contact-us"}>
+         <button className="bg-[#A6CE39] text-white px-6 py-3 rounded-full text-sm font-normal transition">
           Explore solution now
         </button>
+         </Link>
+        
         <Link href={"/contact-us"}>
           <button className="bg-white text-[#1D1D1F] px-6 py-3 rounded-full text-sm font-normal transition">
             Talk to an Expert

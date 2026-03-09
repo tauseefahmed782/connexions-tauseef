@@ -24,7 +24,7 @@ const AppleCareBanner = () => {
 
     </div> 
                                 <h1 className="text-black font-medium text-3xl md:text-4xl lg:text-7xl font-inter leading-tight mb-6">
-            Apple Car For Enterprise
+            AppleCare For Enterprise
             </h1>
 
             {/* Description */}

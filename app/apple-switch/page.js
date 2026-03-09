@@ -8,15 +8,15 @@ import WhyAppleCare from "@/components/apple-for-care/WhyAppleCare";
 import React from "react";
 import WhySwicth from "@/components/apple-switch/WhySwicth";
 import AppleSwitchGrid from "@/components/apple-switch/AppleSwitchGrid";
+import AppleBonusSection from "@/components/apple-switch/Applebonus";
 
 const page = () => {
   return (
     <div className="font-sfpro">
       <AppleSwitchBanner />
       <WhySwicth/>
-      <AppleSwitchGrid
-      />
-     
+      <AppleBonusSection />
+      <AppleSwitchGrid/>
       <ProvenResult/>
     </div>
   );
