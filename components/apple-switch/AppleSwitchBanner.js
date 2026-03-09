@@ -14,7 +14,7 @@ const AppleSwitchBanner = () => {
                         <div className="grid grid-cols-1 md:grid-cols-[40%_60%]  gap-8">
                             
                             <div>
-                               <div className="inline-flex  items-center bg-[#FBFBFB] rounded-full border border-[#D4D4D4A3] px-3 py-2">
+                               <div className="inline-flex  items-center bg-[#FBFBFB] mb-5 mb:mb-0 lg:mb-0 xl:mb-0 sm:mb-0 rounded-full border border-[#D4D4D4A3] px-3 py-2">
       
       <span className="bg-black text-white text-sm font-inter font-medium px-4 py-1 rounded-full">
         New

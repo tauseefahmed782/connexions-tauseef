@@ -12,7 +12,7 @@ import CommonImage from "../common/CommonImage";
 // ServiceCard Component — NOTE: uses h-full and flex so it will fill slide height
 const ServiceCard = ({ icon, title, description }) => {
     return (
-        <div className="p-6 rounded-3xl min-h-[310px] flex flex-col items-center justify-between ">
+        <div className="p-6 rounded-3xl min-h-[200px] flex flex-col items-center justify-between ">
             <div className="text-center">
                 <div className="mb-6">
                     <div className="w-12 h-12 mx-auto">
@@ -28,7 +28,7 @@ const ServiceCard = ({ icon, title, description }) => {
                 <h3 className="text-xl lg:text-2xl font-bold text-primary mb-4 tracking-tight leading-tight" dangerouslySetInnerHTML={{ __html: title }}>
                 </h3>
 
-                <p className="text-[#4B5563] text-base font-normal leading-relaxed tracking-[-0.37px] mb-6">
+                <p className="text-[#4B5563] text-base font-normal leading-relaxed tracking-[-0.37px] mb-0">
                     {description}
                 </p>
             </div>

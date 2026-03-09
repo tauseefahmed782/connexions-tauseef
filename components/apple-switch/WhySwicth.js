@@ -12,7 +12,7 @@ import CommonImage from "../common/CommonImage";
 // ServiceCard Component — NOTE: uses h-full and flex so it will fill slide height
 const ServiceCard = ({ icon, title, description }) => {
     return (
-        <div className="p-6 rounded-3xl min-h-[310px] flex flex-col items-center justify-between ">
+        <div className="p-6 rounded-3xl min-h-[200px] flex flex-col items-center justify-between ">
             <div className="text-center">
                 <div className="mb-6">
                     <div className="w-12 h-12 mx-auto">
@@ -28,7 +28,7 @@ const ServiceCard = ({ icon, title, description }) => {
                 <h3 className="text-xl lg:text-2xl font-bold text-primary mb-4 tracking-tight leading-tight" dangerouslySetInnerHTML={{ __html: title }}>
                 </h3>
 
-                <p className="text-[#4B5563] text-base font-normal leading-relaxed tracking-[-0.37px] mb-6">
+                <p className="text-[#4B5563] text-base font-normal leading-relaxed tracking-[-0.37px] mb-0">
                     {description}
                 </p>
             </div>
@@ -72,16 +72,14 @@ const WhySwicth = () => {
                 <div className="mb-12 relative">
                     <div className="text-center">
                         <h2 className="text-3xl md:text-4xl lg:text-5xl font-medium text-primary leading-tight">
-                            Built For Enterprise Scale
-                        </h2>
+                     Why Switch to Mac?   </h2>
                         <p className="text-[#4B5563] tracking-tight mb-8 font-normal text-base md:text-lg max-w-2xl mx-auto">
-                            Every feature is designed to keep your Apple devices operational and your teams productive.
-                        </p>
+Connexions is your trusted partner to make the switch smooth, strategic, and tailored to your business needs.                        </p>
                     </div>
                 </div>
 
                 {/* Cards Grid */}
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-0">
                     {services.map((service, index) => (
                         <ServiceCard
                             key={index}
