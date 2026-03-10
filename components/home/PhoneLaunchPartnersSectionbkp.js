@@ -5,7 +5,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay } from "swiper/modules";
 import { Smartphone, Chrome } from "lucide-react";
 import HomeBannerImg1 from "@/public/assets/home-banner-img-1.svg";
-import HomeBannerImg2 from "@/public/assets/home-banner-img-2.svg";
+import HomeBannerImg2 from "@/public/assets/macbook-new.svg";
 import HomeBannerImg3 from "@/public/assets/home-banner-img-3.png";
 import HomeBannerImg4 from "@/public/assets/home-banner-img-4.png";
 import HomeBannerImg5 from "@/public/assets/home-banner-img-5.svg";
@@ -29,26 +29,11 @@ import CommonImage from "../common/CommonImage";
 import Marquee from "react-fast-marquee";
 import Link from "next/link";
 
-const PhoneLaunchPartnersSection = () => {
+const PhoneLaunchPartnersSectionbkp = () => {
   const phoneCards = [
     {
       bannerImg: HomeBannerImg2,
-    },
-    {
-      bannerImg: HomeBannerImg1,
-    },
-    {
-      bannerImg: HomeBannerImg3,
-    },
-    {
-      bannerImg: HomeBannerImg4,
-    },
-    {
-      bannerImg: HomeBannerImg5,
-    },
-    {
-      bannerImg: HomeBannerImg6,
-    },
+    }
   ];
 
   const partners = [
@@ -75,34 +60,26 @@ const PhoneLaunchPartnersSection = () => {
     <div className="bg-white ">
       <div className="max-w-7xl mx-auto">
         {/* Main Content Section */}
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-20">
-          {/* Left Side - Text Content */}
-          <div className="flex flex-col justify-center">
-            {/* Badge */}
-            {/* <div className="inline-flex items-center gap-2 py-2 mb-6 w-fit">
-              <div className="flex gap-3 items-center text-black font-medium text-sm md:text-base">
-                <CommonImage
-                  src={AppleLogoBlack.src || AppleLogoBlack}
-                  alt={"apple logo"}
-                  className="w-10 h-10"
-                />{" "}
-                <span>
-                  Authorized <br /> Service Provider
-                </span>
-                <span>
-                  Business <br /> Partner
-                </span>
-              </div>
-            </div> */}
+         <div className="grid grid-cols-1 md:grid-cols-[35%_65%]  gap-8 ">
+                          <div className="flex flex-col justify-center">
+                               {/* <div className="inline-flex  items-center bg-[##FBFBFB] rounded-full border border-[#D4D4D4A3] px-3 py-2">
+      
+      <span className="bg-black text-white text-sm font-inter font-medium px-4 py-1 rounded-full">
+        New
+      </span>
 
-            {/* Main Heading */}
+      <span className="ml-3 text-black text-sm font-inter font-medium">
+        Smart Finance, Real Freedom.
+      </span>
+
+    </div>  */}
                                 <h1 className="text-black font-medium text-3xl md:text-4xl lg:text-7xl font-inter leading-tight mb-6">
-              The all-new iPhone 17 is finally here!!
+             MacBook.Built for business
             </h1>
 
             {/* Description */}
             <p className="text-[#7C7C7C] tracking-tight mb-8 font-normal text-base md:text-lg">
-              The most advanced iPhone ever, Designed for work, built for life.
+Empower your teams with speed, reliability, and enterprise-grade security all in one seamless ecosystem.
             </p>
 
             {/* Buttons */}
@@ -112,35 +89,17 @@ const PhoneLaunchPartnersSection = () => {
               </button> */}
               <Link href={"/contact-us"}>
                 <button className="bg-primary text-white px-8 py-3 rounded-full transition-colors">
-                  Get Started
+                  Explore Now
                 </button>
               </Link>
             </div>
-          </div>
-
-          {/* Right Side - Phone Showcase Swiper */}
-          <div className="relative overflow-hidden">
-            {/* Fade overlay for left and right edges */}
-            <div className="absolute left-0 top-0 bottom-0 w-8 bg-gradient-to-r from-white to-transparent z-10 pointer-events-none"></div>
-            <div className="absolute right-0 top-0 bottom-0 w-8 bg-gradient-to-l from-white to-transparent z-10 pointer-events-none"></div>
-
-            <Marquee>
-              {phoneCards.map((phone, index) => (
-                <div className="grid grid-cols-2 w-full max-w-md px-6 mx-4">
-                  {/* Phone Image Placeholder */}
-                  <div className="bg-gray-100 rounded-2xl  flex items-center justify-center col-span-2 mt-4">
-                    {/* Replace with actual iPhone image */}
-                    <CommonImage
-                      src={phone.bannerImg.src || phone.bannerImg}
-                      alt={phone.title}
-                      className="w-full h-auto object-contain"
-                    />
-                  </div>
-                </div>
-              ))}
-            </Marquee>
-          </div>
-        </div>
+                            </div>
+                            <img
+                                src="/assets/macbook-new.svg"
+                                alt="Slide 2"
+                                className="w-full rounded-xl md:mt-10 mt-0 lg:mt-10 sm:mt-10"
+                            />
+                    </div>
         <style jsx>{`
           .phone-showcase-swiper {
             overflow: visible;
@@ -155,4 +114,4 @@ const PhoneLaunchPartnersSection = () => {
   );
 };
 
-export default PhoneLaunchPartnersSection;
+export default PhoneLaunchPartnersSectionbkp;

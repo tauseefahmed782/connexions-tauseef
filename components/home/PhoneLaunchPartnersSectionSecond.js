@@ -29,7 +29,7 @@ import CommonImage from "../common/CommonImage";
 import Marquee from "react-fast-marquee";
 import Link from "next/link";
 
-const PhoneLaunchPartnersSection = () => {
+const PhoneLaunchPartnersSectionSecond = () => {
   const phoneCards = [
     {
       bannerImg: HomeBannerImg2,
@@ -72,7 +72,7 @@ const PhoneLaunchPartnersSection = () => {
   ];
 
   return (
-    <div className="bg-white ">
+    <div className="bg-white mt-5 ">
       <div className="max-w-7xl mx-auto">
         {/* Main Content Section */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-20">
@@ -96,13 +96,13 @@ const PhoneLaunchPartnersSection = () => {
             </div> */}
 
             {/* Main Heading */}
-                                <h1 className="text-black font-medium text-3xl md:text-4xl lg:text-7xl font-inter leading-tight mb-6">
-              The all-new iPhone 17 is finally here!!
+                   <h1 className="text-black font-medium text-3xl md:text-4xl lg:text-7xl font-inter leading-tight mb-6">
+             MacBook.Built for business
             </h1>
 
             {/* Description */}
             <p className="text-[#7C7C7C] tracking-tight mb-8 font-normal text-base md:text-lg">
-              The most advanced iPhone ever, Designed for work, built for life.
+Empower your teams with speed, reliability, and enterprise-grade security all in one seamless ecosystem.
             </p>
 
             {/* Buttons */}
@@ -112,7 +112,7 @@ const PhoneLaunchPartnersSection = () => {
               </button> */}
               <Link href={"/contact-us"}>
                 <button className="bg-primary text-white px-8 py-3 rounded-full transition-colors">
-                  Get Started
+                  Explore Now
                 </button>
               </Link>
             </div>
@@ -123,24 +123,14 @@ const PhoneLaunchPartnersSection = () => {
             {/* Fade overlay for left and right edges */}
             <div className="absolute left-0 top-0 bottom-0 w-8 bg-gradient-to-r from-white to-transparent z-10 pointer-events-none"></div>
             <div className="absolute right-0 top-0 bottom-0 w-8 bg-gradient-to-l from-white to-transparent z-10 pointer-events-none"></div>
-
-            <Marquee>
-              {phoneCards.map((phone, index) => (
-                <div className="grid grid-cols-2 w-full max-w-md px-6 mx-4">
-                  {/* Phone Image Placeholder */}
-                  <div className="bg-gray-100 rounded-2xl  flex items-center justify-center col-span-2 mt-4">
-                    {/* Replace with actual iPhone image */}
-                    <CommonImage
-                      src={phone.bannerImg.src || phone.bannerImg}
-                      alt={phone.title}
-                      className="w-full h-auto object-contain"
-                    />
-                  </div>
-                </div>
-              ))}
-            </Marquee>
+<img
+                                src="/assets/macbook-new.svg"
+                                alt="Slide 2"
+                                className="w-full rounded-xl"
+                            />
+            
           </div>
-        </div>
+          </div>
         <style jsx>{`
           .phone-showcase-swiper {
             overflow: visible;
@@ -155,4 +145,4 @@ const PhoneLaunchPartnersSection = () => {
   );
 };
 
-export default PhoneLaunchPartnersSection;
+export default PhoneLaunchPartnersSectionSecond;

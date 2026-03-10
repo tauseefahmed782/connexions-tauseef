@@ -5,6 +5,7 @@ import { Pagination, Autoplay } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/pagination";
 import PhoneLaunchPartnersSection from "./PhoneLaunchPartnersSection";
+import PhoneLaunchPartnersSectionbkp from "./PhoneLaunchPartnersSectionbkp";
 
 import HomeBannerLogo1 from "@/public/assets/home-banner-logo-1.svg";
 import HomeBannerLogo2 from "@/public/assets/home-banner-logo-2.svg";
@@ -47,59 +48,17 @@ export default function PhoneLaunchSlider() {
     return (
         <div className="py-0 px-4 sm:px-6 lg:px-20">
             <Swiper
-                modules={[ Autoplay]}
+                modules={[Autoplay ]}
                 pagination={{ clickable: true }}
                 autoplay={{ delay: 5000 }}
                 loop={true}
-                className="w-full h-[600px]"
+                className="w-full "
             >
                
 
                 {/* Slide 2 */}
                 <SwiperSlide>
-                    <div className="flex items-start xl:items-center lg:items-center md:items-center justify-center h-full ">
-                        <div className="grid grid-cols-1 md:grid-cols-[35%_65%]  gap-8">
-                            
-                            <div>
-                               {/* <div className="inline-flex  items-center bg-[##FBFBFB] rounded-full border border-[#D4D4D4A3] px-3 py-2">
-      
-      <span className="bg-black text-white text-sm font-inter font-medium px-4 py-1 rounded-full">
-        New
-      </span>
-
-      <span className="ml-3 text-black text-sm font-inter font-medium">
-        Smart Finance, Real Freedom.
-      </span>
-
-    </div>  */}
-                                <h1 className="text-black font-medium text-3xl md:text-4xl lg:text-7xl font-inter leading-tight mb-6">
-             MacBook.Built for business
-            </h1>
-
-            {/* Description */}
-            <p className="text-[#7C7C7C] tracking-tight mb-8 font-normal text-base md:text-lg">
-Empower your teams with speed, reliability, and enterprise-grade security all in one seamless ecosystem.
-            </p>
-
-            {/* Buttons */}
-            <div className="flex flex-col sm:flex-row gap-4 text-sm font-normal">
-              {/* <button className="bg-[#A6CE39] text-white px-8 py-3 rounded-full transition-colors">
-                Explore Now
-              </button> */}
-              <Link href={"/contact-us"}>
-                <button className="bg-primary text-white px-8 py-3 rounded-full transition-colors">
-                  Explore Now
-                </button>
-              </Link>
-            </div>
-                            </div>
-                            <img
-                                src="/assets/macbook-new.svg"
-                                alt="Slide 2"
-                                className="w-full rounded-xl"
-                            />
-                        </div>
-                    </div>
+                    <PhoneLaunchPartnersSectionbkp/>
                 </SwiperSlide>
                  {/* Slide 1 */}
                 <SwiperSlide>
@@ -113,7 +72,7 @@ Empower your teams with speed, reliability, and enterprise-grade security all in
             Our Partners
           </h2>
 
-          {/* Partners Auto-scrolling Swiper */}
+         {/* Partners Auto-scrolling Swiper */}
           <Marquee>
             {partners.map((partner, index) => (
               <div className="flex items-center justify-center w-40 h-18 bg-[#F2F4F6] rounded-2xl border border-[#E1E4EB] mx-4">
