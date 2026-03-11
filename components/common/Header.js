@@ -159,11 +159,11 @@ const Header = () => {
           <div className="flex-shrink-0">
             <Link href={"/"} passHref onClick={() => handleLinkClick(false)}>
               <CommonImage
-                width={180}
+                width={220}
                 height={80}
                 src={Logo.src || Logo}
                 alt="Logo"
-                className="h-auto w-auto max-h-[50px]"
+                className="h-auto w-auto max-h-[80px]"
               />
             </Link>
           </div>

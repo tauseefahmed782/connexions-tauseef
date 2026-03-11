@@ -107,6 +107,22 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
+                    href="/apple-for-care"
+                    className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
+                  >
+                    Applecare for Enterprise
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="/apple-switch"
+                    className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
+                  >
+                    Apple Switcher Program
+                  </a>
+                </li>
+                <li>
+                  <a
                     href="/apple-for-work"
                     className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
                   >
