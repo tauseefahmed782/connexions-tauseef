@@ -99,6 +99,8 @@ const Header = () => {
         { label: "iPhone 17 Air", href: "/iphone-17air" },
         { label: "Apple Watch SE3", href: "/apple-watch" },
         { label: "Apple Airpods Pro 3", href: "/apple-airpods" },
+         { label: "Macbook Neo", href: "/macbook-neo" },
+         { label: "Macbook Pro M5", href: "/macbookpro-m5" },
       ],
     },
     { label: "Contact Us", href: "/contact-us" },

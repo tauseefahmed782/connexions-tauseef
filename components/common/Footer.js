@@ -194,6 +194,22 @@ const Footer = () => {
                     Apple Airpods Pro 3
                   </a>
                 </li>
+                 <li>
+                  <a
+                    href="/macbook-neo"
+                    className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
+                  >
+                    Macbook Neo
+                  </a>
+                </li>
+                 <li>
+                  <a
+                    href="/macbookpro-m5"
+                    className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
+                  >
+                   Macbook Pro M5
+                  </a>
+                </li>
               </ul>
             </div>
           </div>

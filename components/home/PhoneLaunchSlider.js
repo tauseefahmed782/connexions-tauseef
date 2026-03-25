@@ -24,6 +24,7 @@ import "swiper/css";
 import "swiper/css/autoplay";
 import CommonImage from "../common/CommonImage";
 import Marquee from "react-fast-marquee";
+import MackbookNeo from "./MackbookNeo";
 
 export default function PhoneLaunchSlider() {
     const partners = [
@@ -60,6 +61,9 @@ export default function PhoneLaunchSlider() {
                 <SwiperSlide>
                     <PhoneLaunchPartnersSectionbkp/>
                 </SwiperSlide>
+                  {/* <SwiperSlide>
+                    <MackbookNeo/>
+                </SwiperSlide> */}
                  {/* Slide 1 */}
                 <SwiperSlide>
                     <PhoneLaunchPartnersSection/>
