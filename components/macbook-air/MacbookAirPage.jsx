@@ -6,6 +6,8 @@ import SecondLeft from "@/public/assets/macbook-air/secound_left.png";
 import SecondRight from "@/public/assets/macbook-air/secound-right.png";
 import AppleM5Left from "@/public/assets/macbook-air/Apple M5 (1).png";
 import AppleM5Right from "@/public/assets/macbook-air/Apple M5 (2).png";
+import BatteryImage from "@/public/assets/macbook-air/battery.png";
+import PosterImage from "@/public/assets/macbook-air/poster.png";
 import MacbookNeoNewToMacSection from "@/components/macbookpro-m5/MacbookNeoNewToMacSection";
 import MacbookNeoCompareSection from "@/components/macbook-neo/MacbookNeoCompareSection";
 import MacbookNeoAccessoriesSection from "@/components/macbook-neo/MacbookNeoAccessoriesSection";
@@ -195,6 +197,48 @@ function PerformanceSection() {
   );
 }
 
+function BatteryPosterSection() {
+  return (
+    <section className="bg-white px-4 py-3 sm:px-6 lg:px-8">
+      <div className="mx-auto grid max-w-[1200px] gap-5 lg:grid-cols-[0.34fr_0.66fr]">
+        <article className="rounded-[30px] bg-[#F5F5F7] px-8 py-10 text-center sm:px-10 sm:py-12">
+          <h2 className="text-[34px] font-semibold leading-[1.02] tracking-[-1.2px] text-[#1D1D1F] sm:text-[54px]">
+            Take charge
+            <br />
+            on the go.
+          </h2>
+
+          <p className="mt-14 text-[28px] font-semibold leading-8 tracking-[-0.3px] text-[#1D1D1F] sm:text-[38px]">
+            Up to
+          </p>
+
+          <div className="mx-auto mt-8 w-full max-w-[230px]">
+            <Image
+              src={BatteryImage}
+              alt="18 hours battery life"
+              className="h-auto w-full"
+              sizes="230px"
+            />
+          </div>
+
+          <p className="mt-8 text-[28px] font-semibold leading-8 tracking-[-0.3px] text-[#1D1D1F] sm:text-[38px]">
+            of battery life<sup>◊</sup>
+          </p>
+        </article>
+
+        <article className="overflow-hidden rounded-[30px] bg-[#F5F5F7]">
+          <Image
+            src={PosterImage}
+            alt="MacBook Air battery life lifestyle"
+            className="h-full w-full object-cover"
+            sizes="(max-width: 1024px) 100vw, 780px"
+          />
+        </article>
+      </div>
+    </section>
+  );
+}
+
 function VisualSection({ image, alt, className = "" }) {
   return (
     <section className="bg-white px-4 py-3 sm:px-6 lg:px-8">
@@ -210,6 +254,7 @@ export default function MacbookAirPage() {
       <ProductHero />
       <SizesAndColours />
       <PerformanceSection />
+      <BatteryPosterSection />
       <VisualSection
         image={FeatureGridBottom}
         alt="MacBook Air continuity, display, camera, audio and security features"
