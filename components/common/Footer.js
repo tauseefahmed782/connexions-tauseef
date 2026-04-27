@@ -210,6 +210,30 @@ const Footer = () => {
                    Macbook Pro M5
                   </a>
                 </li>
+                  <li>
+                  <a
+                    href="/macbook-air"
+                    className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
+                  >
+                   Macbook Air M5
+                  </a>
+                </li>
+                 <li>
+                  <a
+                    href="/ipadpro"
+                    className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
+                  >
+                   iPad Pro
+                  </a>
+                </li>
+                 <li>
+                  <a
+                    href="/iphone-17e"
+                    className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
+                  >
+                   iPhone 17e
+                  </a>
+                </li>
               </ul>
             </div>
           </div>

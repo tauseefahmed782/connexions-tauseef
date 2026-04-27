@@ -53,17 +53,18 @@ export default function PhoneLaunchSlider() {
                 pagination={{ clickable: true }}
                 autoplay={{ delay: 5000 }}
                 loop={true}
+                autoHeight={true}
                 className="w-full "
             >
                
 
                 {/* Slide 2 */}
-                <SwiperSlide>
+                {/* <SwiperSlide>
                     <PhoneLaunchPartnersSectionbkp/>
-                </SwiperSlide>
-                  {/* <SwiperSlide>
-                    <MackbookNeo/>
                 </SwiperSlide> */}
+                  <SwiperSlide>
+                    <MackbookNeo/>
+                </SwiperSlide>
                  {/* Slide 1 */}
                 <SwiperSlide>
                     <PhoneLaunchPartnersSection/>

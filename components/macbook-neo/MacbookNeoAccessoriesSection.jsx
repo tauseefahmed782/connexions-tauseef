@@ -8,10 +8,10 @@ import TrackpadImage from "@/public/assets/apple-grid-book.svg";
 import Image from "next/image";
 export default function MacbookNeoAccessoriesSection() {
   return (
-    <section className="bg-white sm:px-6 lg:px-20">
-      <div className="mx-auto max-w-[1200px] rounded-[28px] bg-[#F5F5F7]  py-10  md:py-12">
-        <div className="grid relative grid-cols-1 gap-10 md:grid-cols-[330px_minmax(0,1fr)] md:items-center md:gap-8">
-          <div className="max-w-[280px] pl-12">
+    <section className="bg-white px-4 sm:px-6 lg:px-20">
+      <div className="mx-auto max-w-[1200px] rounded-[28px] bg-[#F5F5F7] px-6 py-10 md:px-10 md:py-12">
+        <div className="grid grid-cols-1 gap-10 md:grid-cols-[330px_minmax(0,1fr)] md:items-center md:gap-8">
+          <div className="max-w-[280px] text-left md:pl-2 md:text-left">
             <p className="mb-2 text-[21px] font-semibold leading-7 tracking-[-0.3px] text-[#1D1D1F]">
               Accessories
             </p>
@@ -29,13 +29,13 @@ export default function MacbookNeoAccessoriesSection() {
             </Link>
           </div>
 
-          <div className="absolute right-0 min-h-[240px] overflow-hidden md:min-h-[255px]">
+          <div className="flex min-h-[220px] items-center justify-center overflow-hidden md:min-h-[255px] md:justify-end">
          <Image
              src="assets/macaccessories.svg"
              alt=""
              width={390}
              height={340}
-             className="w-full h-auto object-contain"
+             className="h-auto w-full max-w-[520px] object-contain"
            />
           </div>
         </div>

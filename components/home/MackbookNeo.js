@@ -74,13 +74,12 @@ const MackbookNeo = () => {
 
     </div>  */}
                                 <h1 className="text-black font-medium text-3xl md:text-4xl lg:text-7xl font-inter leading-tight mb-6">
-             Switch to Mac. With MacBook Neo.
+           MacBook Neo. Built for Business
             </h1>
 
             {/* Description */}
             <p className="text-[#7C7C7C] tracking-tight mb-8 font-normal text-base md:text-lg">
-Introducing MacBook Neo — powerful, affordable, and the easiest way to upgrade with our Switch to Mac program.
-            </p>
+Introducing MacBook Neo - Powerful, Affordable, And the Easiest Way to Upgrade With Our Switch To Mac Program .           </p>
 
             {/* Buttons */}
             <div className="flex flex-col sm:flex-row gap-4 text-sm font-normal">
@@ -89,13 +88,13 @@ Introducing MacBook Neo — powerful, affordable, and the easiest way to upgrade
               </button> */}
               <Link href={"/contact-us"}>
                 <button className="bg-primary text-white px-8 py-3 rounded-full transition-colors">
-                  Explore MacBook Neo 
+                  Order Now  
                 </button>
               </Link>
             </div>
                             </div>
                             <img
-                                src="/assets/macbook-new.svg"
+                                src="/assets/macbook-neo-banner.svg"
                                 alt="Slide 2"
                                 className="w-full rounded-xl md:mt-10 mt-0 lg:mt-10 sm:mt-10"
                             />

@@ -45,7 +45,7 @@ export default function MacbookNeoLegalDisclaimersSection() {
   return (
     <section className="bg-white px-4 pb-20 pt-4 sm:px-6 lg:px-20">
       <div className="mx-auto max-w-[1200px] pt-2">
-        <h2 className="text-[12px] font-normal leading-[1.33337] tracking-[-0.12px] text-[#6E6E73]">
+        <h2 className="text-[20px] font-normal leading-[1.33337] tracking-[-0.12px] text-[#6E6E73]">
           &#9674;Legal Disclaimers
         </h2>
 

@@ -1,0 +1,2882 @@
+[
+    {
+        "Key":  "iPhone 17",
+        "Value":  {
+                      "name":  "iPhone 17",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_17_lavender_large.png",
+                      "colorsLabel":  "Lavender, Sage, Mist Blue, White, Black",
+                      "colors":  [
+                                     "#E6D5F1",
+                                     "#B4C294",
+                                     "#A2B9DC",
+                                     "#FCFCFC",
+                                     "#353839"
+                                 ],
+                      "displayValue":  "15.93 cm",
+                      "displayLines":  [
+                                           "(6.3â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "ProMotion technology",
+                                           "Always-On display",
+                                           "Dynamic Island"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Aluminium frame",
+                                          "Ceramic Shield 2 front,",
+                                          "3x better scratch resistance◊Refer to legal disclaimers"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a19_elevated_large.png",
+                      "chipLines":  [
+                                        "A19 chip",
+                                        "5â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 30 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_person_crop_rectangle_landscape_rotate_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "18MP Center Stage front camera",
+                                               "Tap to zoom and rotate",
+                                               "Centre Stage for photos and video calls",
+                                               "Ultra-stabilised video",
+                                               "Dual Capture"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone17_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "48MP Dual Fusion camera system",
+                                          "48MP Fusion Main",
+                                          "48MP Fusion",
+                                          "Ultra Wide",
+                                          "â€”",
+                                          "Super-high-resolution photos â€¨(24MP and 48MP)",
+                                          "Next-generation portraits with Focus and Depth Control",
+                                          "Macro photography",
+                                          "Dolby Vision up to 4K",
+                                          "at 60 fps",
+                                          "Latest-generation Photographic Styles"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_4x_3circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "/assets/iphone-17e-compare/icon_compare_apple_intelligence_elevated_large.png",
+                      "intelligenceLines":  "Apple Intelligence◊Refer to legal disclaimers",
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "Crash Detection◊Refer to legal disclaimers"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_usb_c_elevated_large.png",
+                      "usbLines":  [
+                                       "USB-C",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 17"
+    },
+    {
+        "Key":  "iPhone 17e",
+        "Value":  {
+                      "name":  "iPhone 17e",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_17e_pink_large.png",
+                      "colorsLabel":  "Soft Pink, White, Black",
+                      "colors":  [
+                                     "#FCE7E6",
+                                     "#FAFAFA",
+                                     "#3C4042"
+                                 ],
+                      "displayValue":  "15.40 cm",
+                      "displayLines":  [
+                                           "(6.1â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "â€”",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Aluminium frame",
+                                          "Ceramic Shield 2 front,",
+                                          "3x better scratch resistance◊Refer to legal disclaimers"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a19_elevated_large.png",
+                      "chipLines":  [
+                                        "A19 chip",
+                                        "4â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 26 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen2_crop_front_camera_left_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone16e_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "48MP Fusion camera system",
+                                          "48MP Fusion Main",
+                                          "â€”",
+                                          "â€”",
+                                          "Super-high-resolution photos (24MP and 48MP)",
+                                          "Next-generation portraits with Focus and Depth Control",
+                                          "â€”",
+                                          "Dolby Vision up to 4K",
+                                          "at 60 fps",
+                                          "Photographic Styles"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_4x_2circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "/assets/iphone-17e-compare/icon_compare_apple_intelligence_elevated_large.png",
+                      "intelligenceLines":  "Apple Intelligence◊Refer to legal disclaimers",
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "Crash Detection◊Refer to legal disclaimers"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_usb_c_elevated_large.png",
+                      "usbLines":  [
+                                       "USB-C",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 17e"
+    },
+    {
+        "Key":  "iPhone 16e",
+        "Value":  {
+                      "name":  "iPhone 16e",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_16e_black_large.png",
+                      "colorsLabel":  "White, Black",
+                      "colors":  [
+                                     "#FAFAFA",
+                                     "#3C4042"
+                                 ],
+                      "displayValue":  "15.40 cm",
+                      "displayLines":  [
+                                           "(6.1â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "â€”",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Aluminium frame",
+                                          "Ceramic Shield front"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a18_elevated_large.png",
+                      "chipLines":  [
+                                        "A18 chip",
+                                        "4â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 26 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen2_crop_front_camera_left_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone16e_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "2â€‘inâ€‘1 camera system",
+                                          "48MP Fusion Main",
+                                          "â€”",
+                                          "â€”",
+                                          "Super-high-resolution photos â€¨(24MP and 48MP)",
+                                          "Portrait mode",
+                                          "with Depth Control",
+                                          "â€”",
+                                          "Dolby Vision up to 4K",
+                                          "at 60 fps",
+                                          "Photographic Styles"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_4x_2circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "/assets/iphone-17e-compare/icon_compare_apple_intelligence_elevated_large.png",
+                      "intelligenceLines":  "Apple Intelligence◊Refer to legal disclaimers",
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "Crash Detection◊Refer to legal disclaimers"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_usb_c_elevated_large.png",
+                      "usbLines":  [
+                                       "USB-C",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 16e"
+    },
+    {
+        "Key":  "iPhone 17 Pro Max",
+        "Value":  {
+                      "name":  "iPhone 17 Pro Max",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_17_pro_max_orange_large.png",
+                      "colorsLabel":  "Cosmic Orange, Deep Blue, Silver",
+                      "colors":  [
+                                     "#F77E2D",
+                                     "#394673",
+                                     "#E5E5E5"
+                                 ],
+                      "displayValue":  "17.42 cm",
+                      "displayLines":  [
+                                           "(6.9â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "ProMotion technology",
+                                           "Always-On display",
+                                           "Dynamic Island"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Aluminium unibody design with Ceramic Shield back",
+                                          "Ceramic Shield 2 front,",
+                                          "3x better scratch resistance◊Refer to legal disclaimers"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a19pro_elevated_large.png",
+                      "chipLines":  [
+                                        "A19 Pro chip",
+                                        "6â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 37 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_person_crop_rectangle_landscape_rotate_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "18MP Center Stage front camera",
+                                               "Tap to zoom and rotate",
+                                               "Centre Stage for photos and video calls",
+                                               "Ultra-stabilised video",
+                                               "Dual Capture"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone17pro_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "48MP Pro Fusion camera system",
+                                          "48MP Fusion Main",
+                                          "48MP Fusion",
+                                          "Ultra Wide",
+                                          "48MP Fusion Telephoto",
+                                          "Super-high-resolution photos (24MP and 48MP)",
+                                          "Next-generation portraits with Focus and Depth Control",
+                                          "Macro photography",
+                                          "Dolby Vision up to 4K",
+                                          "at 120 fps",
+                                          "Latest-generation Photographic Styles"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_16x_5circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "/assets/iphone-17e-compare/icon_compare_apple_intelligence_elevated_large.png",
+                      "intelligenceLines":  "Apple Intelligence◊Refer to legal disclaimers",
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "Crash Detection◊Refer to legal disclaimers"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_usb_c_elevated_large.png",
+                      "usbLines":  [
+                                       "USB-C",
+                                       "Supports USB 3"
+                                   ]
+                  },
+        "Name":  "iPhone 17 Pro Max"
+    },
+    {
+        "Key":  "iPhone 17 Pro",
+        "Value":  {
+                      "name":  "iPhone 17 Pro",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_17_pro_orange_large.png",
+                      "colorsLabel":  "Cosmic Orange, Deep Blue, Silver",
+                      "colors":  [
+                                     "#F77E2D",
+                                     "#394673",
+                                     "#E5E5E5"
+                                 ],
+                      "displayValue":  "15.93 cm",
+                      "displayLines":  [
+                                           "(6.3â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "ProMotion technology",
+                                           "Always-On display",
+                                           "Dynamic Island"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Aluminium unibody design with Ceramic Shield back",
+                                          "Ceramic Shield 2 front,",
+                                          "3x better scratch resistance◊Refer to legal disclaimers"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a19pro_elevated_large.png",
+                      "chipLines":  [
+                                        "A19 Pro chip",
+                                        "6â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 31 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_person_crop_rectangle_landscape_rotate_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "18MP Center Stage front camera",
+                                               "Tap to zoom and rotate",
+                                               "Centre Stage for photos and video calls",
+                                               "Ultra-stabilised video",
+                                               "Dual Capture"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone17pro_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "48MP Pro Fusion camera system",
+                                          "48MP Fusion Main",
+                                          "48MP Fusion",
+                                          "Ultra Wide",
+                                          "48MP Fusion Telephoto",
+                                          "Super-high-resolution photos (24MP and 48MP)",
+                                          "Next-generation portraits with Focus and Depth Control",
+                                          "Macro photography",
+                                          "Dolby Vision up to 4K",
+                                          "at 120 fps",
+                                          "Latest-generation Photographic Styles"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_16x_5circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "/assets/iphone-17e-compare/icon_compare_apple_intelligence_elevated_large.png",
+                      "intelligenceLines":  "Apple Intelligence◊Refer to legal disclaimers",
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "Crash Detection◊Refer to legal disclaimers"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_usb_c_elevated_large.png",
+                      "usbLines":  [
+                                       "USB-C",
+                                       "Supports USB 3"
+                                   ]
+                  },
+        "Name":  "iPhone 17 Pro"
+    },
+    {
+        "Key":  "iPhone Air",
+        "Value":  {
+                      "name":  "iPhone Air",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_17_air_sky_blue_large.png",
+                      "colorsLabel":  "Sky Blue, Light Gold, Cloud White, Space Black",
+                      "colors":  [
+                                     "#E3F1FA",
+                                     "#FAF2E3",
+                                     "#FCFCFC",
+                                     "#000000"
+                                 ],
+                      "displayValue":  "16.63 cm",
+                      "displayLines":  [
+                                           "(6.5â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "ProMotion technology",
+                                           "Always-On display",
+                                           "Dynamic Island"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Titanium frame with Ceramic Shield back",
+                                          "Ceramic Shield 2 front,",
+                                          "3x better scratch resistance◊Refer to legal disclaimers"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a19pro_elevated_large.png",
+                      "chipLines":  [
+                                        "A19 Pro chip",
+                                        "5â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 27 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_person_crop_rectangle_landscape_rotate_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "18MP Center Stage front camera",
+                                               "Tap to zoom and rotate",
+                                               "Centre Stage for photos and video calls",
+                                               "Ultra-stabilised video",
+                                               "Dual Capture"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphoneair_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "48MP Fusion camera system",
+                                          "48MP Fusion Main",
+                                          "â€”",
+                                          "â€”",
+                                          "Super-high-resolution photos â€¨(24MP and 48MP)",
+                                          "Next-generation portraits with Focus and Depth Control",
+                                          "â€”",
+                                          "Dolby Vision up to 4K",
+                                          "at 60 fps",
+                                          "Latest-generation Photographic Styles"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_4x_2circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "/assets/iphone-17e-compare/icon_compare_apple_intelligence_elevated_large.png",
+                      "intelligenceLines":  "Apple Intelligence◊Refer to legal disclaimers",
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "Crash Detection◊Refer to legal disclaimers"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_usb_c_elevated_large.png",
+                      "usbLines":  [
+                                       "USB-C",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone Air"
+    },
+    {
+        "Key":  "iPhone 16 Pro Max",
+        "Value":  {
+                      "name":  "iPhone 16 Pro Max",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_16_pro_max_rose_titanium_large.png",
+                      "colorsLabel":  "Desert Titanium, Natural Titanium, White Titanium, Black Titanium",
+                      "colors":  [
+                                     "#BFA48F",
+                                     "#C2BCB2",
+                                     "#F2F1ED",
+                                     "#3C3C3D"
+                                 ],
+                      "displayValue":  "17.43 cm",
+                      "displayLines":  [
+                                           "(6.9â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "ProMotion technology",
+                                           "Always-On display",
+                                           "Dynamic Island"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Titanium frame",
+                                          "Ceramic Shield front"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a18pro_elevated_large.png",
+                      "chipLines":  [
+                                        "A18 Pro chip",
+                                        "6â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 33 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen3_crop_front_camera_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone16pro_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Pro camera system",
+                                          "48MP Fusion Main",
+                                          "48MP Ultra Wide",
+                                          "Telephoto",
+                                          "Super-high-resolution photos â€¨(24MP and 48MP)",
+                                          "Next-generation portraits with Focus and Depth Control",
+                                          "Macro photography",
+                                          "Dolby Vision up to 4K",
+                                          "at 120 fps",
+                                          "Latest-generation Photographic Styles"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_10x_4circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "/assets/iphone-17e-compare/icon_compare_apple_intelligence_elevated_large.png",
+                      "intelligenceLines":  "Apple Intelligence◊Refer to legal disclaimers",
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "Crash Detection◊Refer to legal disclaimers"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_usb_c_elevated_large.png",
+                      "usbLines":  [
+                                       "USB-C",
+                                       "Supports USB 3"
+                                   ]
+                  },
+        "Name":  "iPhone 16 Pro Max"
+    },
+    {
+        "Key":  "iPhone 16 Pro",
+        "Value":  {
+                      "name":  "iPhone 16 Pro",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_16_pro_rose_titanium_large.png",
+                      "colorsLabel":  "Desert Titanium, Natural Titanium, White Titanium, Black Titanium",
+                      "colors":  [
+                                     "#BFA48F",
+                                     "#C2BCB2",
+                                     "#F2F1ED",
+                                     "#3C3C3D"
+                                 ],
+                      "displayValue":  "15.93 cm",
+                      "displayLines":  [
+                                           "(6.3â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "ProMotion technology",
+                                           "Always-On display",
+                                           "Dynamic Island"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Titanium frame",
+                                          "Ceramic Shield front"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a18pro_elevated_large.png",
+                      "chipLines":  [
+                                        "A18 Pro chip",
+                                        "6â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 27 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen3_crop_front_camera_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone16pro_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Pro camera system",
+                                          "48MP Fusion Main",
+                                          "48MP Ultra Wide",
+                                          "Telephoto",
+                                          "Super-high-resolution photos â€¨(24MP and 48MP)",
+                                          "Next-generation portraits with Focus and Depth Control",
+                                          "Macro photography",
+                                          "Dolby Vision up to 4K",
+                                          "at 120 fps",
+                                          "Latest-generation Photographic Styles"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_10x_4circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "/assets/iphone-17e-compare/icon_compare_apple_intelligence_elevated_large.png",
+                      "intelligenceLines":  "Apple Intelligence◊Refer to legal disclaimers",
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "Crash Detection◊Refer to legal disclaimers"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_usb_c_elevated_large.png",
+                      "usbLines":  [
+                                       "USB-C",
+                                       "Supports USB 3"
+                                   ]
+                  },
+        "Name":  "iPhone 16 Pro"
+    },
+    {
+        "Key":  "iPhone 16 Plus",
+        "Value":  {
+                      "name":  "iPhone 16 Plus",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_16_plus_blue_large.png",
+                      "colorsLabel":  "Ultramarine, Teal, Pink, White, Black",
+                      "colors":  [
+                                     "#9AADF6",
+                                     "#B0D4D2",
+                                     "#F2ADDA",
+                                     "#FAFAFA",
+                                     "#3C4042"
+                                 ],
+                      "displayValue":  "17.00 cm",
+                      "displayLines":  [
+                                           "(6.7â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "â€”",
+                                           "â€”",
+                                           "Dynamic Island"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Aluminium frame",
+                                          "Ceramic Shield front"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a18_elevated_large.png",
+                      "chipLines":  [
+                                        "A18 chip",
+                                        "5â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 27 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen3_crop_front_camera_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone17_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Advanced dualâ€‘camera system",
+                                          "48MP Fusion Main",
+                                          "12MP Ultra Wide",
+                                          "â€”",
+                                          "Super-high-resolution photos â€¨(24MP and 48MP)",
+                                          "Next-generation portraits with Focus and Depth Control",
+                                          "Macro photography",
+                                          "Dolby Vision up to 4K",
+                                          "at 60 fps",
+                                          "Latest-generation Photographic Styles"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_4x_3circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "/assets/iphone-17e-compare/icon_compare_apple_intelligence_elevated_large.png",
+                      "intelligenceLines":  "Apple Intelligence◊Refer to legal disclaimers",
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "Crash Detection◊Refer to legal disclaimers"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_usb_c_elevated_large.png",
+                      "usbLines":  [
+                                       "USB-C",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 16 Plus"
+    },
+    {
+        "Key":  "iPhone 16",
+        "Value":  {
+                      "name":  "iPhone 16",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_16_blue_large.png",
+                      "colorsLabel":  "Ultramarine, Teal, Pink, White, Black",
+                      "colors":  [
+                                     "#9AADF6",
+                                     "#B0D4D2",
+                                     "#F2ADDA",
+                                     "#FAFAFA",
+                                     "#3C4042"
+                                 ],
+                      "displayValue":  "15.54 cm",
+                      "displayLines":  [
+                                           "(6.1â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "â€”",
+                                           "â€”",
+                                           "Dynamic Island"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Aluminium frame",
+                                          "Ceramic Shield front"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a18_elevated_large.png",
+                      "chipLines":  [
+                                        "A18 chip",
+                                        "5â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 22 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen3_crop_front_camera_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone17_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Advanced dualâ€‘camera system",
+                                          "48MP Fusion Main",
+                                          "12MP Ultra Wide",
+                                          "â€”",
+                                          "Super-high-resolution photos â€¨(24MP and 48MP)",
+                                          "Next-generation portraits with Focus and Depth Control",
+                                          "Macro photography",
+                                          "Dolby Vision up to 4K",
+                                          "at 60 fps",
+                                          "Latest-generation Photographic Styles"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_4x_3circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "/assets/iphone-17e-compare/icon_compare_apple_intelligence_elevated_large.png",
+                      "intelligenceLines":  "Apple Intelligence◊Refer to legal disclaimers",
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "Crash Detection◊Refer to legal disclaimers"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_usb_c_elevated_large.png",
+                      "usbLines":  [
+                                       "USB-C",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 16"
+    },
+    {
+        "Key":  "iPhone SE (3rd generation)",
+        "Value":  {
+                      "name":  "iPhone SE (3rd generation)",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_se_gen03_midnight_large.png",
+                      "colorsLabel":  "Midnight, Starlight, (PRODUCT)RED",
+                      "colors":  [
+                                     "#232A31",
+                                     "#FAF6F2",
+                                     "#BF0013"
+                                 ],
+                      "displayValue":  "11.94 cm",
+                      "displayLines":  [
+                                           "(4.7â€³) Retina HD display",
+                                           "â€”",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Aluminium frame",
+                                          "Glass front and back"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a15_elevated_large.png",
+                      "chipLines":  [
+                                        "A15 Bionic chip",
+                                        "4â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 15 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen1_crop_front_camera_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "7MP FaceTime HD camera",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphonese_gen3_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Single-camera system",
+                                          "12MP Main",
+                                          "â€”",
+                                          "â€”",
+                                          "â€”",
+                                          "Portrait mode",
+                                          "with Depth Control",
+                                          "â€”",
+                                          "â€”",
+                                          "Photographic Styles"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_2x_1circle_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "â€”"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone SE (3rd generation)"
+    },
+    {
+        "Key":  "iPhone 15 Pro Max",
+        "Value":  {
+                      "name":  "iPhone 15 Pro Max",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_15_pro_max_tigry_large.png",
+                      "colorsLabel":  "Natural Titanium, Blue Titanium, White Titanium, Black Titanium",
+                      "colors":  [
+                                     "#BAB4A9",
+                                     "#3D4555",
+                                     "#F2F1EB",
+                                     "#3F4042"
+                                 ],
+                      "displayValue":  "17.00 cm",
+                      "displayLines":  [
+                                           "(6.7â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "ProMotion technology",
+                                           "Always-On display",
+                                           "Dynamic Island"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Titanium frame",
+                                          "Ceramic Shield front"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a17pro_elevated_large.png",
+                      "chipLines":  [
+                                        "A17 Pro chip",
+                                        "6â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 29 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen3_crop_front_camera_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone16pro_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Pro camera system",
+                                          "48MP Main",
+                                          "Ultra Wide",
+                                          "Telephoto",
+                                          "Super-high-resolution photos â€¨(24MP and 48MP)",
+                                          "Next-generation portraits with Focus and Depth Control",
+                                          "Macro photography",
+                                          "Dolby Vision up to 4K",
+                                          "at 60 fps",
+                                          "Photographic Styles"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_10x_4circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "/assets/iphone-17e-compare/icon_compare_apple_intelligence_elevated_large.png",
+                      "intelligenceLines":  "Apple Intelligence◊Refer to legal disclaimers",
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "Crash Detection◊Refer to legal disclaimers"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_usb_c_elevated_large.png",
+                      "usbLines":  [
+                                       "USB-C",
+                                       "Supports USB 3"
+                                   ]
+                  },
+        "Name":  "iPhone 15 Pro Max"
+    },
+    {
+        "Key":  "iPhone 15 Pro",
+        "Value":  {
+                      "name":  "iPhone 15 Pro",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_15_pro_tigry_large.png",
+                      "colorsLabel":  "Natural Titanium, Blue Titanium, White Titanium, Black Titanium",
+                      "colors":  [
+                                     "#BAB4A9",
+                                     "#3D4555",
+                                     "#F2F1EB",
+                                     "#3F4042"
+                                 ],
+                      "displayValue":  "15.54 cm",
+                      "displayLines":  [
+                                           "(6.1â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "ProMotion technology",
+                                           "Always-On display",
+                                           "Dynamic Island"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Titanium frame",
+                                          "Ceramic Shield front"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a17pro_elevated_large.png",
+                      "chipLines":  [
+                                        "A17 Pro chip",
+                                        "6â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 23 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen3_crop_front_camera_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone16pro_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Pro camera system",
+                                          "48MP Main",
+                                          "Ultra Wide",
+                                          "Telephoto",
+                                          "Super-high-resolution photos â€¨(24MP and 48MP)",
+                                          "Next-generation portraits with Focus and Depth Control",
+                                          "Macro photography",
+                                          "Dolby Vision up to 4K",
+                                          "at 60 fps",
+                                          "Photographic Styles"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_6x_4circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "/assets/iphone-17e-compare/icon_compare_apple_intelligence_elevated_large.png",
+                      "intelligenceLines":  "Apple Intelligence◊Refer to legal disclaimers",
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "Crash Detection◊Refer to legal disclaimers"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_usb_c_elevated_large.png",
+                      "usbLines":  [
+                                       "USB-C",
+                                       "Supports USB 3"
+                                   ]
+                  },
+        "Name":  "iPhone 15 Pro"
+    },
+    {
+        "Key":  "iPhone 15 Plus",
+        "Value":  {
+                      "name":  "iPhone 15 Plus",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_15_plus_pink_large.png",
+                      "colorsLabel":  "Pink, Yellow, Green, Blue, Black",
+                      "colors":  [
+                                     "#EBD0D2",
+                                     "#ECE6C6",
+                                     "#CFD9C9",
+                                     "#D5DDE0",
+                                     "#3C4042"
+                                 ],
+                      "displayValue":  "17.00 cm",
+                      "displayLines":  [
+                                           "(6.7â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "â€”",
+                                           "â€”",
+                                           "Dynamic Island"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Aluminium frame",
+                                          "Ceramic Shield front"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a16_elevated_large.png",
+                      "chipLines":  [
+                                        "A16 Bionic chip",
+                                        "5â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 26 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen3_crop_front_camera_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone15_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Dual-camera system",
+                                          "48MP Main",
+                                          "Ultra Wide",
+                                          "â€”",
+                                          "Super-high-resolution photos â€¨(24MP and 48MP)",
+                                          "Next-generation portraits with Focus and Depth Control",
+                                          "â€”",
+                                          "Dolby Vision up to 4K",
+                                          "at 60 fps",
+                                          "Photographic Styles"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_4x_3circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "Crash Detection◊Refer to legal disclaimers"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_usb_c_elevated_large.png",
+                      "usbLines":  [
+                                       "USB-C",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 15 Plus"
+    },
+    {
+        "Key":  "iPhone 15",
+        "Value":  {
+                      "name":  "iPhone 15",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_15_pink_large.png",
+                      "colorsLabel":  "Pink, Yellow, Green, Blue, Black",
+                      "colors":  [
+                                     "#EBD0D2",
+                                     "#ECE6C6",
+                                     "#CFD9C9",
+                                     "#D5DDE0",
+                                     "#3C4042"
+                                 ],
+                      "displayValue":  "15.54 cm",
+                      "displayLines":  [
+                                           "(6.1â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "â€”",
+                                           "â€”",
+                                           "Dynamic Island"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Aluminium frame",
+                                          "Ceramic Shield front"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a16_elevated_large.png",
+                      "chipLines":  [
+                                        "A16 Bionic chip",
+                                        "5â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 20 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen3_crop_front_camera_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone15_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Dual-camera system",
+                                          "48MP Main",
+                                          "Ultra Wide",
+                                          "â€”",
+                                          "Super-high-resolution photos â€¨(24MP and 48MP)",
+                                          "Next-generation portraits with Focus and Depth Control",
+                                          "â€”",
+                                          "Dolby Vision up to 4K",
+                                          "at 60 fps",
+                                          "Photographic Styles"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_4x_3circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "Crash Detection◊Refer to legal disclaimers"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_usb_c_elevated_large.png",
+                      "usbLines":  [
+                                       "USB-C",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 15"
+    },
+    {
+        "Key":  "iPhone 14 Pro Max",
+        "Value":  {
+                      "name":  "iPhone 14 Pro Max",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_14_pro_max_twilight_purple_large.png",
+                      "colorsLabel":  "Deep Purple, Gold, Silver, Space Black",
+                      "colors":  [
+                                     "#594F63",
+                                     "#F4E8CE",
+                                     "#F0F2F2",
+                                     "#403E3D"
+                                 ],
+                      "displayValue":  "17.00 cm",
+                      "displayLines":  [
+                                           "(6.7â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "ProMotion technology",
+                                           "Always-On display",
+                                           "Dynamic Island"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Stainless steel frame",
+                                          "Ceramic Shield front"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a16_elevated_large.png",
+                      "chipLines":  [
+                                        "A16 Bionic chip",
+                                        "5â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 29 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen3_crop_front_camera_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone16pro_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Pro camera system",
+                                          "48MP Main",
+                                          "Ultra Wide",
+                                          "Telephoto",
+                                          "Super-high-resolution photos â€¨(48MP)",
+                                          "Portrait mode with Focus and Depth Control",
+                                          "Macro photography",
+                                          "Dolby Vision up to 4K",
+                                          "at 60 fps",
+                                          "Photographic Styles"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_6x_4circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "Crash Detection◊Refer to legal disclaimers"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 14 Pro Max"
+    },
+    {
+        "Key":  "iPhone 14 Pro",
+        "Value":  {
+                      "name":  "iPhone 14 Pro",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_14_pro_twilight_purple_large.png",
+                      "colorsLabel":  "Deep Purple, Gold, Silver, Space Black",
+                      "colors":  [
+                                     "#594F63",
+                                     "#F4E8CE",
+                                     "#F0F2F2",
+                                     "#403E3D"
+                                 ],
+                      "displayValue":  "15.54 cm",
+                      "displayLines":  [
+                                           "(6.1â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "ProMotion technology",
+                                           "Always-On display",
+                                           "Dynamic Island"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Stainless steel frame",
+                                          "Ceramic Shield front"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a16_elevated_large.png",
+                      "chipLines":  [
+                                        "A16 Bionic chip",
+                                        "5â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 23 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen3_crop_front_camera_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone16pro_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Pro camera system",
+                                          "48MP Main",
+                                          "Ultra Wide",
+                                          "Telephoto",
+                                          "Super-high-resolution photos â€¨(48MP)",
+                                          "Portrait mode with Focus and Depth Control",
+                                          "Macro photography",
+                                          "Dolby Vision up to 4K",
+                                          "at 60 fps",
+                                          "Photographic Styles"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_6x_4circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "Crash Detection◊Refer to legal disclaimers"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 14 Pro"
+    },
+    {
+        "Key":  "iPhone 14 Plus",
+        "Value":  {
+                      "name":  "iPhone 14 Plus",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_14_plus_blue_large.png",
+                      "colorsLabel":  "Blue, Purple, Yellow, Midnight, Starlight, (PRODUCT)RED",
+                      "colors":  [
+                                     "#A0B4C7",
+                                     "#E6DDEB",
+                                     "#F9E479",
+                                     "#222930",
+                                     "#FAF6F2",
+                                     "#FC0324"
+                                 ],
+                      "displayValue":  "16.95 cm",
+                      "displayLines":  [
+                                           "(6.7â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "â€”",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Aluminium frame",
+                                          "Ceramic Shield front"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a15_elevated_large.png",
+                      "chipLines":  [
+                                        "A15 Bionic chip",
+                                        "5â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 26 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen2_crop_front_camera_left_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone15_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Dual-camera system",
+                                          "12MP Main",
+                                          "Ultra Wide",
+                                          "â€”",
+                                          "â€”",
+                                          "Portrait mode with Focus and Depth Control",
+                                          "â€”",
+                                          "Dolby Vision up to 4K",
+                                          "at 60 fps",
+                                          "Photographic Styles"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_2x_2circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "Crash Detection◊Refer to legal disclaimers"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 14 Plus"
+    },
+    {
+        "Key":  "iPhone 14",
+        "Value":  {
+                      "name":  "iPhone 14",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_14_blue_large.png",
+                      "colorsLabel":  "Blue, Purple, Yellow, Midnight, Starlight, (PRODUCT)RED",
+                      "colors":  [
+                                     "#A0B4C7",
+                                     "#E6DDEB",
+                                     "#F9E479",
+                                     "#222930",
+                                     "#FAF6F2",
+                                     "#FC0324"
+                                 ],
+                      "displayValue":  "15.40 cm",
+                      "displayLines":  [
+                                           "(6.1â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "â€”",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Aluminium frame",
+                                          "Ceramic Shield front"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a15_elevated_large.png",
+                      "chipLines":  [
+                                        "A15 Bionic chip",
+                                        "5â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 20 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen2_crop_front_camera_left_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone15_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Dual-camera system",
+                                          "12MP Main",
+                                          "Ultra Wide",
+                                          "â€”",
+                                          "â€”",
+                                          "Portrait mode with Focus and Depth Control",
+                                          "â€”",
+                                          "Dolby Vision up to 4K",
+                                          "at 60 fps",
+                                          "Photographic Styles"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_2x_2circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "Crash Detection◊Refer to legal disclaimers"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 14"
+    },
+    {
+        "Key":  "iPhone 13 Pro Max",
+        "Value":  {
+                      "name":  "iPhone 13 Pro Max",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_13_pro_max_alpine_green_large.png",
+                      "colorsLabel":  "Alpine Green, Silver, Gold, Graphite, Sierra Blue",
+                      "colors":  [
+                                     "#576856",
+                                     "#F1F2ED",
+                                     "#FAE7CF",
+                                     "#54524F",
+                                     "#A7C1D9"
+                                 ],
+                      "displayValue":  "16.95 cm",
+                      "displayLines":  [
+                                           "(6.7â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "ProMotion technology",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Stainless steel frame",
+                                          "Ceramic Shield front"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a15_elevated_large.png",
+                      "chipLines":  [
+                                        "A15 Bionic chip",
+                                        "5â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 28 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen2_crop_front_camera_left_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone16pro_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Pro camera system",
+                                          "12MP Main",
+                                          "Ultra Wide",
+                                          "Telephoto",
+                                          "â€”",
+                                          "Portrait mode with Focus and Depth Control",
+                                          "Macro photography",
+                                          "Dolby Vision up to 4K",
+                                          "at 60 fps",
+                                          "Photographic Styles"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_6x_3circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "â€”"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 13 Pro Max"
+    },
+    {
+        "Key":  "iPhone 13 Pro",
+        "Value":  {
+                      "name":  "iPhone 13 Pro",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_13_pro_alpine_green_large.png",
+                      "colorsLabel":  "Alpine Green, Silver, Gold, Graphite, Sierra Blue",
+                      "colors":  [
+                                     "#576856",
+                                     "#F1F2ED",
+                                     "#FAE7CF",
+                                     "#54524F",
+                                     "#A7C1D9"
+                                 ],
+                      "displayValue":  "15.40 cm",
+                      "displayLines":  [
+                                           "(6.1â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "ProMotion technology",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Stainless steel frame",
+                                          "Ceramic Shield front"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a15_elevated_large.png",
+                      "chipLines":  [
+                                        "A15 Bionic chip",
+                                        "5â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 22 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen2_crop_front_camera_left_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone16pro_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Pro camera system",
+                                          "12MP Main",
+                                          "Ultra Wide",
+                                          "Telephoto",
+                                          "â€”",
+                                          "Portrait mode with Focus and Depth Control",
+                                          "Macro photography",
+                                          "Dolby Vision up to 4K",
+                                          "at 60 fps",
+                                          "Photographic Styles"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_6x_3circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "â€”"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 13 Pro"
+    },
+    {
+        "Key":  "iPhone 13",
+        "Value":  {
+                      "name":  "iPhone 13",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_13_alpine_green_large.png",
+                      "colorsLabel":  "Green, Pink, Blue, Midnight, Starlight, (PRODUCT)RED",
+                      "colors":  [
+                                     "#394C38",
+                                     "#FADDD7",
+                                     "#276787",
+                                     "#232A31",
+                                     "#FAF6F2",
+                                     "#BF0013"
+                                 ],
+                      "displayValue":  "15.40 cm",
+                      "displayLines":  [
+                                           "(6.1â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "â€”",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Aluminium frame",
+                                          "Ceramic Shield front"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a15_elevated_large.png",
+                      "chipLines":  [
+                                        "A15 Bionic chip",
+                                        "4â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 19 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen2_crop_front_camera_left_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone13_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Dual-camera system",
+                                          "12MP Main",
+                                          "Ultra Wide",
+                                          "â€”",
+                                          "â€”",
+                                          "Portrait mode with Focus and Depth Control",
+                                          "â€”",
+                                          "Dolby Vision up to 4K",
+                                          "at 60 fps",
+                                          "Photographic Styles"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_2x_2circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "â€”"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 13"
+    },
+    {
+        "Key":  "iPhone 13 mini",
+        "Value":  {
+                      "name":  "iPhone 13 mini",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_13_mini_alpine_green_large.png",
+                      "colorsLabel":  "Green, Pink, Blue, Midnight, Starlight, (PRODUCT)RED",
+                      "colors":  [
+                                     "#394C38",
+                                     "#FADDD7",
+                                     "#276787",
+                                     "#232A31",
+                                     "#FAF6F2",
+                                     "#BF0013"
+                                 ],
+                      "displayValue":  "13.76 cm",
+                      "displayLines":  [
+                                           "(5.4â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "â€”",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Aluminium frame",
+                                          "Ceramic Shield front"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a15_elevated_large.png",
+                      "chipLines":  [
+                                        "A15 Bionic chip",
+                                        "4â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 17 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen2_crop_front_camera_left_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone13_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Dual-camera system",
+                                          "12MP Main",
+                                          "Ultra Wide",
+                                          "â€”",
+                                          "â€”",
+                                          "Portrait mode with Focus and Depth Control",
+                                          "â€”",
+                                          "Dolby Vision up to 4K",
+                                          "at 60 fps",
+                                          "Photographic Styles"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_2x_2circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "â€”"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 13 mini"
+    },
+    {
+        "Key":  "iPhone 12 Pro Max",
+        "Value":  {
+                      "name":  "iPhone 12 Pro Max",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_12_pro_max_pacific_blue_large.png",
+                      "colorsLabel":  "Pacific Blue, Gold, Graphite, Silver",
+                      "colors":  [
+                                     "#2D4E5C",
+                                     "#FCEBD3",
+                                     "#52514D",
+                                     "#E3E4DF"
+                                 ],
+                      "displayValue":  "16.95 cm",
+                      "displayLines":  [
+                                           "(6.7â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "â€”",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Stainless steel frame",
+                                          "Ceramic Shield front"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a14_elevated_large.png",
+                      "chipLines":  [
+                                        "A14 Bionic chip",
+                                        "4â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 20 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen2_crop_front_camera_right_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone12pro_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Pro camera system",
+                                          "12MP Main",
+                                          "Ultra Wide",
+                                          "Telephoto",
+                                          "â€”",
+                                          "Portrait mode",
+                                          "with Depth Control",
+                                          "â€”",
+                                          "Dolby Vision up to 4K",
+                                          "at 60 fps",
+                                          "â€”"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_5x_3circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "â€”"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 12 Pro Max"
+    },
+    {
+        "Key":  "iPhone 12 Pro",
+        "Value":  {
+                      "name":  "iPhone 12 Pro",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_12_pro_pacific_blue_large.png",
+                      "colorsLabel":  "Pacific Blue, Gold, Graphite, Silver",
+                      "colors":  [
+                                     "#2D4E5C",
+                                     "#FCEBD3",
+                                     "#52514D",
+                                     "#E3E4DF"
+                                 ],
+                      "displayValue":  "15.40 cm",
+                      "displayLines":  [
+                                           "(6.1â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "â€”",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Stainless steel frame",
+                                          "Ceramic Shield front"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a14_elevated_large.png",
+                      "chipLines":  [
+                                        "A14 Bionic chip",
+                                        "4â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 17 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen2_crop_front_camera_right_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone12pro_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Pro camera system",
+                                          "12MP Main",
+                                          "Ultra Wide",
+                                          "Telephoto",
+                                          "â€”",
+                                          "Portrait mode",
+                                          "with Depth Control",
+                                          "â€”",
+                                          "Dolby Vision up to 4K",
+                                          "at 60 fps",
+                                          "â€”"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_4x_3circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "â€”"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 12 Pro"
+    },
+    {
+        "Key":  "iPhone 12",
+        "Value":  {
+                      "name":  "iPhone 12",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_12_purple_large.png",
+                      "colorsLabel":  "Purple, Blue, Green, (PRODUCT)RED, White, Black",
+                      "colors":  [
+                                     "#B7AFE6",
+                                     "#023B63",
+                                     "#D8EFD5",
+                                     "#D82E2E",
+                                     "#F6F2EF",
+                                     "#25212B"
+                                 ],
+                      "displayValue":  "15.40 cm",
+                      "displayLines":  [
+                                           "(6.1â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "â€”",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Aluminium frame",
+                                          "Ceramic Shield front"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a14_elevated_large.png",
+                      "chipLines":  [
+                                        "A14 Bionic chip",
+                                        "4â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 17 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen2_crop_front_camera_right_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone12_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Dual-camera system",
+                                          "12MP Main",
+                                          "Ultra Wide",
+                                          "â€”",
+                                          "â€”",
+                                          "Portrait mode",
+                                          "with Depth Control",
+                                          "â€”",
+                                          "Dolby Vision up to 4K",
+                                          "at 30 fps",
+                                          "â€”"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_2x_2circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "â€”"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 12"
+    },
+    {
+        "Key":  "iPhone 12 mini",
+        "Value":  {
+                      "name":  "iPhone 12 mini",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_12_mini_purple_large.png",
+                      "colorsLabel":  "Purple, Blue, Green, (PRODUCT)RED, White, Black",
+                      "colors":  [
+                                     "#B7AFE6",
+                                     "#023B63",
+                                     "#D8EFD5",
+                                     "#D82E2E",
+                                     "#F6F2EF",
+                                     "#25212B"
+                                 ],
+                      "displayValue":  "13.76 cm",
+                      "displayLines":  [
+                                           "(5.4â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "â€”",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Aluminium frame",
+                                          "Ceramic Shield front"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a14_elevated_large.png",
+                      "chipLines":  [
+                                        "A14 Bionic chip",
+                                        "4â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 15 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen2_crop_front_camera_right_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone12_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Dual-camera system",
+                                          "12MP Main",
+                                          "Ultra Wide",
+                                          "â€”",
+                                          "â€”",
+                                          "Portrait mode",
+                                          "with Depth Control",
+                                          "â€”",
+                                          "Dolby Vision up to 4K",
+                                          "at 30 fps",
+                                          "â€”"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_2x_2circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "â€”"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 12 mini"
+    },
+    {
+        "Key":  "iPhone 11 Pro Max",
+        "Value":  {
+                      "name":  "iPhone 11 Pro Max",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_11_pro_max_midnight_green_large.png",
+                      "colorsLabel":  "Midnight Green, Silver, Space Grey, Gold",
+                      "colors":  [
+                                     "#4E5851",
+                                     "#EBEBE3",
+                                     "#535150",
+                                     "#FAD7BD"
+                                 ],
+                      "displayValue":  "16.40 cm",
+                      "displayLines":  [
+                                           "(6.5â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "â€”",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Stainless steel frame",
+                                          "Glass front and back"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a13_elevated_large.png",
+                      "chipLines":  [
+                                        "A13 Bionic chip",
+                                        "4â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 20 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen2_crop_front_camera_right_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone11pro_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Triple cameras",
+                                          "12MP Main",
+                                          "Ultra Wide",
+                                          "Telephoto",
+                                          "â€”",
+                                          "Portrait mode",
+                                          "with Depth Control",
+                                          "â€”",
+                                          "â€”",
+                                          "â€”"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_4x_3circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "â€”"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 11 Pro Max"
+    },
+    {
+        "Key":  "iPhone 11 Pro",
+        "Value":  {
+                      "name":  "iPhone 11 Pro",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_11_pro_midnight_green_large.png",
+                      "colorsLabel":  "Midnight Green, Silver, Space Grey, Gold",
+                      "colors":  [
+                                     "#4E5851",
+                                     "#EBEBE3",
+                                     "#535150",
+                                     "#FAD7BD"
+                                 ],
+                      "displayValue":  "14.86 cm",
+                      "displayLines":  [
+                                           "(5.8â€³) Super Retina XDR display◊Refer to legal disclaimers.",
+                                           "â€”",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Stainless steel frame",
+                                          "Glass front and back"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a13_elevated_large.png",
+                      "chipLines":  [
+                                        "A13 Bionic chip",
+                                        "4â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 18 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen2_crop_front_camera_right_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone11pro_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Triple cameras",
+                                          "12MP Main",
+                                          "Ultra Wide",
+                                          "Telephoto",
+                                          "â€”",
+                                          "Portrait mode",
+                                          "with Depth Control",
+                                          "â€”",
+                                          "â€”",
+                                          "â€”"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_4x_3circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "â€”"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 11 Pro"
+    },
+    {
+        "Key":  "iPhone 11",
+        "Value":  {
+                      "name":  "iPhone 11",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_11_purple_large.png",
+                      "colorsLabel":  "Purple, Yellow, Green, Black, White, (PRODUCT)RED",
+                      "colors":  [
+                                     "#D1CDDA",
+                                     "#FFE681",
+                                     "#AEE1CD",
+                                     "#1F2020",
+                                     "#F9F6EF",
+                                     "#BA0C2E"
+                                 ],
+                      "displayValue":  "15.40 cm",
+                      "displayLines":  [
+                                           "(6.1â€³) Liquid Retina HD display◊Refer to legal disclaimers.",
+                                           "â€”",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Aluminium frame",
+                                          "Glass front and back"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a13_elevated_large.png",
+                      "chipLines":  [
+                                        "A13 Bionic chip",
+                                        "4â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 17 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen2_crop_front_camera_right_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "12MP TrueDepth camera",
+                                               "Tap to zoom",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone12_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Dual cameras",
+                                          "12MP Main",
+                                          "Ultra Wide",
+                                          "â€”",
+                                          "â€”",
+                                          "Portrait mode",
+                                          "with Depth Control",
+                                          "â€”",
+                                          "â€”",
+                                          "â€”"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_2x_2circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "â€”"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 11"
+    },
+    {
+        "Key":  "iPhone SE (2nd generation)",
+        "Value":  {
+                      "name":  "iPhone SE (2nd generation)",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_se_gen02_black_large.png",
+                      "colorsLabel":  "Black, White, (PRODUCT)RED",
+                      "colors":  [
+                                     "#262529",
+                                     "#F3F3F3",
+                                     "#B41325"
+                                 ],
+                      "displayValue":  "11.94 cm",
+                      "displayLines":  [
+                                           "(4.7â€³) Retina HD display",
+                                           "â€”",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Aluminium frame",
+                                          "Glass front and back"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a13_elevated_large.png",
+                      "chipLines":  [
+                                        "A13 Bionic chip",
+                                        "4â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 13 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen1_crop_front_camera_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "7MP FaceTime HD camera",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphonese_gen3_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Single camera",
+                                          "12MP Main",
+                                          "â€”",
+                                          "â€”",
+                                          "â€”",
+                                          "Portrait mode",
+                                          "with Depth Control",
+                                          "â€”",
+                                          "â€”",
+                                          "â€”"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_2x_1circle_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "â€”"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone SE (2nd generation)"
+    },
+    {
+        "Key":  "iPhone XS Max",
+        "Value":  {
+                      "name":  "iPhone XS Max",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_xs_max_silver_large.png",
+                      "colorsLabel":  "Silver, Space Grey, Gold",
+                      "colors":  [
+                                     "#E4E4E2",
+                                     "#262529",
+                                     "#FADCC2"
+                                 ],
+                      "displayValue":  "16.40 cm",
+                      "displayLines":  [
+                                           "(6.5â€³) Super Retina HD display◊Refer to legal disclaimers.",
+                                           "â€”",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Stainless steel frame",
+                                          "Glass front and back"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a12_elevated_large.png",
+                      "chipLines":  [
+                                        "A12 Bionic chip",
+                                        "4â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 15 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen2_crop_front_camera_right_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "7MP TrueDepth camera",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphonexs_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Dual cameras",
+                                          "12MP Main",
+                                          "â€”",
+                                          "Telephoto",
+                                          "â€”",
+                                          "Portrait mode",
+                                          "with Depth Control",
+                                          "â€”",
+                                          "â€”",
+                                          "â€”"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_4x_2circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "â€”"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone XS Max"
+    },
+    {
+        "Key":  "iPhone XS",
+        "Value":  {
+                      "name":  "iPhone XS",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_xs_silver_large.png",
+                      "colorsLabel":  "Silver, Space Grey, Gold",
+                      "colors":  [
+                                     "#E4E4E2",
+                                     "#262529",
+                                     "#FADCC2"
+                                 ],
+                      "displayValue":  "14.86 cm",
+                      "displayLines":  [
+                                           "(5.8â€³) Super Retina HD display◊Refer to legal disclaimers.",
+                                           "â€”",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Stainless steel frame",
+                                          "Glass front and back"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a12_elevated_large.png",
+                      "chipLines":  [
+                                        "A12 Bionic chip",
+                                        "4â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 14 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen2_crop_front_camera_right_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "7MP TrueDepth camera",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphonexs_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Dual cameras",
+                                          "12MP Main",
+                                          "â€”",
+                                          "Telephoto",
+                                          "â€”",
+                                          "Portrait mode",
+                                          "with Depth Control",
+                                          "â€”",
+                                          "â€”",
+                                          "â€”"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_4x_2circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "â€”"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone XS"
+    },
+    {
+        "Key":  "iPhone XR",
+        "Value":  {
+                      "name":  "iPhone XR",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_xr_blue_large.png",
+                      "colorsLabel":  "Blue, White, Black, Yellow, Coral, (PRODUCT)RED",
+                      "colors":  [
+                                     "#48AEE6",
+                                     "#F3F3F3",
+                                     "#2E3034",
+                                     "#F9D045",
+                                     "#FF6E5A",
+                                     "#B41325"
+                                 ],
+                      "displayValue":  "15.40 cm",
+                      "displayLines":  [
+                                           "(6.1â€³) Liquid Retina HD display◊Refer to legal disclaimers.",
+                                           "â€”",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Aluminium frame",
+                                          "Glass front and back"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a12_elevated_large.png",
+                      "chipLines":  [
+                                        "A12 Bionic chip",
+                                        "4â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 16 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen2_crop_front_camera_right_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "7MP TrueDepth camera",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphonexr_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Single camera",
+                                          "12MP Main",
+                                          "â€”",
+                                          "â€”",
+                                          "â€”",
+                                          "Portrait mode",
+                                          "with Depth Control",
+                                          "â€”",
+                                          "â€”",
+                                          "â€”"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_2x_1circle_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "â€”"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone XR"
+    },
+    {
+        "Key":  "iPhone X",
+        "Value":  {
+                      "name":  "iPhone X",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_x_silver_large.png",
+                      "colorsLabel":  "Silver, Space Grey",
+                      "colors":  [
+                                     "#E4E4E2",
+                                     "#262529"
+                                 ],
+                      "displayValue":  "14.86 cm",
+                      "displayLines":  [
+                                           "(5.8â€³) Super Retina HD display◊Refer to legal disclaimers.",
+                                           "â€”",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Stainless steel frame",
+                                          "Glass front and back"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a11_elevated_large.png",
+                      "chipLines":  [
+                                        "A11 Bionic chip",
+                                        "3â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 13 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen2_crop_front_camera_right_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "7MP TrueDepth camera",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphonexs_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Dual cameras",
+                                          "12MP Main",
+                                          "â€”",
+                                          "Telephoto",
+                                          "â€”",
+                                          "Portrait mode",
+                                          "â€”",
+                                          "â€”",
+                                          "â€”"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_4x_2circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "â€”"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone X"
+    },
+    {
+        "Key":  "iPhone 8 Plus",
+        "Value":  {
+                      "name":  "iPhone 8 Plus",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_8_plus_silver_large.png",
+                      "colorsLabel":  "Silver, Space Grey, Gold",
+                      "colors":  [
+                                     "#E2E3E4",
+                                     "#272729",
+                                     "#F7E8DD"
+                                 ],
+                      "displayValue":  "13.94 cm",
+                      "displayLines":  [
+                                           "(5.5â€³) Retina HD display",
+                                           "â€”",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Aluminium frame",
+                                          "Glass front and back"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a11_elevated_large.png",
+                      "chipLines":  [
+                                        "A11 Bionic chip",
+                                        "3â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 14 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen1_crop_front_camera_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "7MP FaceTime HD camera",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone8plus_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Dual cameras",
+                                          "12MP Main",
+                                          "â€”",
+                                          "Telephoto",
+                                          "â€”",
+                                          "Portrait mode",
+                                          "â€”",
+                                          "â€”",
+                                          "â€”"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_4x_2circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "â€”"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 8 Plus"
+    },
+    {
+        "Key":  "iPhone 8",
+        "Value":  {
+                      "name":  "iPhone 8",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_8_silver_large.png",
+                      "colorsLabel":  "Silver, Space Grey, Gold",
+                      "colors":  [
+                                     "#E2E3E4",
+                                     "#272729",
+                                     "#F7E8DD"
+                                 ],
+                      "displayValue":  "11.94 cm",
+                      "displayLines":  [
+                                           "(4.7â€³) Retina HD display",
+                                           "â€”",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Aluminium frame",
+                                          "Glass front and back"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a11_elevated_large.png",
+                      "chipLines":  [
+                                        "A11 Bionic chip",
+                                        "3â€‘core GPU"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 13 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen1_crop_front_camera_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "7MP FaceTime HD camera",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphonese_gen3_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Single camera",
+                                          "12MP Main",
+                                          "â€”",
+                                          "â€”",
+                                          "â€”",
+                                          "â€”",
+                                          "â€”",
+                                          "â€”",
+                                          "â€”"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_2x_1circle_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "â€”"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 8"
+    },
+    {
+        "Key":  "iPhone 7 Plus",
+        "Value":  {
+                      "name":  "iPhone 7 Plus",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_7_plus_black_large.png",
+                      "colorsLabel":  "Silver, Black, Gold, Rose Gold",
+                      "colors":  [
+                                     "#E2E3E4",
+                                     "#2E3034",
+                                     "#E3CCB4",
+                                     "#ECC6C1"
+                                 ],
+                      "displayValue":  "13.94 cm",
+                      "displayLines":  [
+                                           "(5.5â€³) Retina HD display",
+                                           "â€”",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Aluminium frame",
+                                          "â€”"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a10_elevated_large.png",
+                      "chipLines":  [
+                                        "A10 Fusion chip",
+                                        "â€”"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 14 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen1_crop_front_camera_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "7MP FaceTime HD camera",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone8plus_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Dual cameras",
+                                          "12MP Main",
+                                          "â€”",
+                                          "Telephoto",
+                                          "â€”",
+                                          "Portrait mode",
+                                          "â€”",
+                                          "â€”",
+                                          "â€”"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_4x_2circles_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "â€”"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 7 Plus"
+    },
+    {
+        "Key":  "iPhone 7",
+        "Value":  {
+                      "name":  "iPhone 7",
+                      "image":  "/assets/iphone-17e-compare/compare_iphone_7_black_large.png",
+                      "colorsLabel":  "Silver, Black, Gold, Rose Gold",
+                      "colors":  [
+                                     "#E2E3E4",
+                                     "#2E3034",
+                                     "#E3CCB4",
+                                     "#ECC6C1"
+                                 ],
+                      "displayValue":  "11.94 cm",
+                      "displayLines":  [
+                                           "(4.7â€³) Retina HD display",
+                                           "â€”",
+                                           "â€”",
+                                           "â€”"
+                                       ],
+                      "designIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_1_layer_3d_elevated_large.png",
+                      "designLines":  [
+                                          "Aluminium frame",
+                                          "â€”"
+                                      ],
+                      "chipIcon":  "/assets/iphone-17e-compare/icon_compare_chip_a10_elevated_large.png",
+                      "chipLines":  [
+                                        "A10 Fusion chip",
+                                        "â€”"
+                                    ],
+                      "batteryIcon":  "/assets/iphone-17e-compare/icon_compare_battery_100percent_elevated_large.png",
+                      "batteryLines":  [
+                                           "Up to 13 hours",
+                                           "video playback◊Refer to legal disclaimers"
+                                       ],
+                      "frontCameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphone_gen1_crop_front_camera_elevated_large.png",
+                      "frontCameraLines":  [
+                                               "7MP FaceTime HD camera",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”",
+                                               "â€”"
+                                           ],
+                      "cameraIcon":  "/assets/iphone-17e-compare/icon_compare_iphonese_gen3_crop_rear_camera_elevated_large.png",
+                      "cameraLines":  [
+                                          "Single camera",
+                                          "12MP Main",
+                                          "â€”",
+                                          "â€”",
+                                          "â€”",
+                                          "â€”",
+                                          "â€”",
+                                          "â€”",
+                                          "â€”"
+                                      ],
+                      "zoomIcon":  "/assets/iphone-17e-compare/icon_compare_2x_1circle_zoom_large.png",
+                      "zoomLines":  "Optical zoom options",
+                      "intelligenceIcon":  "",
+                      "intelligenceLines":  {
+
+                                            },
+                      "safetyIcon":  "/assets/iphone-17e-compare/icon_compare_sos_circle_elevated_large.png",
+                      "safetyLines":  [
+                                          "Emergency SOS",
+                                          "â€”"
+                                      ],
+                      "usbIcon":  "/assets/iphone-17e-compare/icon_compare_port_lightning_elevated_large.png",
+                      "usbLines":  [
+                                       "Lightning",
+                                       "Supports USB 2"
+                                   ]
+                  },
+        "Name":  "iPhone 7"
+    }
+]
