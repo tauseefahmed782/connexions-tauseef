@@ -78,6 +78,22 @@ const Header = () => {
     {
       label: "Apple",
       dropdown: [
+        {
+          label: "Apple Launches",
+          nested: [
+            { label: "iPhone 17", href: "/iphone-17" },
+            { label: "iPhone 17 Pro", href: "/iphone-17pro" },
+            { label: "iPhone 17 Air", href: "/iphone-17air" },
+                        { label: "iPhone 17e ", href: "/iphone-17e" },
+                                    { label: "ipad Pro", href: "/ipadpro" },
+                                     { label: "Macbook Neo", href: "/macbook-neo" },
+            { label: "Macbook Pro M5", href: "/macbookpro-m5" },
+            { label: "Macbook Air 5", href: "/macbook-air" },
+            { label: "Apple Watch SE3", href: "/apple-watch" },
+            { label: "Apple Airpods Pro 3", href: "/apple-airpods" },
+           
+          ],
+        },
         { label: "Apple Solutions", href: "/apple-solutions" },
         { label: "Apple for Enterprise", href: "/apple-for-enterprise" },
         { label: "Apple for Work", href: "/apple-for-work" },
@@ -90,22 +106,8 @@ const Header = () => {
         },
       ],
     },
-    { label: "MacBooks", href: "/apple-macbooks" },
-    {
-      label: "New Launch",
-      dropdown: [
-        { label: "iPhone 17", href: "/iphone-17" },
-        { label: "iPhone 17 Pro", href: "/iphone-17pro" },
-        { label: "iPhone 17 Air", href: "/iphone-17air" },
-        { label: "Apple Watch SE3", href: "/apple-watch" },
-        { label: "Apple Airpods Pro 3", href: "/apple-airpods" },
-         { label: "Macbook Neo", href: "/macbook-neo" },
-         { label: "Macbook Pro M5", href: "/macbookpro-m5" },
-         { label: "Macbook Air 5", href: "/macbook-air" },
-          { label: "ipad Pro", href: "/ipadpro" },
-          { label: "iPhone 17e ", href: "/iphone-17e" },
-      ],
-    },
+    // { label: "MacBooks", href: "/apple-macbooks" },
+ 
     { label: "Contact Us", href: "/contact-us" },
   ];
 
@@ -518,9 +520,7 @@ const Header = () => {
 
                       <ul
                         className={`overflow-hidden transition-all duration-300 ${
-                          openDropdown === item.label
-                            ? "max-h-96 mt-2"
-                            : "max-h-0"
+                          openDropdown === item.label ? "max-h-[600px]" : "max-h-0"
                         }`}
                       >
                         {item.dropdown.map((sub) => (
