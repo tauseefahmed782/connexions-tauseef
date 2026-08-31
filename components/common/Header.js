@@ -33,12 +33,23 @@ const Header = () => {
     setOpenNestedDropdown(openNestedDropdown === menu ? null : menu);
   };
 
-  const handleLinkClick = (hasDropdown = false) => {
+  const handleLinkClick = (hasDropdown = false, event) => {
+    event?.stopPropagation();
     setOpenDropdown(null);
     setOpenNestedDropdown(null);
     if (!hasDropdown) {
       setMenuOpen(false);
     }
+  };
+
+  const handleDropdownToggle = (menu, event) => {
+    event?.stopPropagation();
+    toggleDropdown(menu);
+  };
+
+  const handleNestedDropdownToggle = (menu, event) => {
+    event?.stopPropagation();
+    toggleNestedDropdown(menu);
   };
 
   useEffect(() => {
@@ -89,6 +100,7 @@ const Header = () => {
                                      { label: "Macbook Neo", href: "/macbook-neo" },
             { label: "Macbook Pro M5", href: "/macbookpro-m5" },
             { label: "Macbook Air 5", href: "/macbook-air" },
+            { label: "Av/Vc", href: "/apple-ac-vc" },
             { label: "Apple Watch SE3", href: "/apple-watch" },
             { label: "Apple Airpods Pro 3", href: "/apple-airpods" },
            
@@ -164,7 +176,7 @@ const Header = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <div className="flex-shrink-0">
-            <Link href={"/"} passHref onClick={() => handleLinkClick(false)}>
+            <Link href={"/"} onClick={(event) => handleLinkClick(false, event)}>
               <CommonImage
                 width={220}
                 height={80}
@@ -189,7 +201,7 @@ const Header = () => {
             <Link
               href="/contact-us"
               passHref
-              onClick={() => handleLinkClick(false)}
+              onClick={(event) => handleLinkClick(false, event)}
             >
               <button className="bg-primary cursor-pointer text-secondary rounded-sm px-4 lg:px-6 py-2 text-sm font-light">
                 Contact us
@@ -241,19 +253,34 @@ const Header = () => {
                     >
                       <div
                         className="flex items-center gap-1"
-                        onClick={() =>
-                          item.dropdown && toggleDropdown(item.label)
+                        onClick={(event) =>
+                          item.dropdown && handleDropdownToggle(item.label, event)
                         }
                       >
-                        <Link
-                          href={item.href || "#"}
-                          className={`${
-                            isActive ? "text-[#A6CE39] underline" : "text-black"
-                          }`}
-                          onClick={() => handleLinkClick(!!item.dropdown)}
-                        >
-                          {item.label}
-                        </Link>
+                        {item.dropdown ? (
+                          <button
+                            type="button"
+                            className={`cursor-pointer bg-transparent p-0 text-left ${
+                              isActive
+                                ? "text-[#A6CE39] underline"
+                                : "text-black"
+                            }`}
+                          >
+                            {item.label}
+                          </button>
+                        ) : (
+                          <Link
+                            href={item.href}
+                            className={`${
+                              isActive
+                                ? "text-[#A6CE39] underline"
+                                : "text-black"
+                            }`}
+                            onClick={(event) => handleLinkClick(false, event)}
+                          >
+                            {item.label}
+                          </Link>
+                        )}
                         {item.dropdown && (
                           <ChevronDown
                             size={14}
@@ -279,6 +306,9 @@ const Header = () => {
                                     onMouseEnter={() =>
                                       setOpenNestedDropdown(sub.label)
                                     }
+                                    onClick={(event) =>
+                                      handleNestedDropdownToggle(sub.label, event)
+                                    }
                                   >
                                     <span>{sub.label}</span>
                                     <ChevronRight size={14} />
@@ -303,8 +333,8 @@ const Header = () => {
                                                   ? "text-[#A6CE39]"
                                                   : ""
                                               }
-                                              onClick={() =>
-                                                handleLinkClick(false)
+                                              onClick={(event) =>
+                                                handleLinkClick(false, event)
                                               }
                                             >
                                               {nestedItem.label}
@@ -323,7 +353,7 @@ const Header = () => {
                                       ? "text-[#A6CE39]"
                                       : ""
                                   }
-                                  onClick={() => handleLinkClick(false)}
+                                  onClick={(event) => handleLinkClick(false, event)}
                                 >
                                   {sub.label}
                                 </Link>
@@ -355,19 +385,30 @@ const Header = () => {
                   >
                     <div
                       className="flex items-center gap-1"
-                      onClick={() =>
-                        item.dropdown && toggleDropdown(item.label)
+                      onClick={(event) =>
+                        item.dropdown && handleDropdownToggle(item.label, event)
                       }
                     >
-                      <Link
-                        href={item.href || "#"}
-                        className={`${
-                          isActive ? "text-[#A6CE39]" : "text-primary"
-                        }`}
-                        onClick={() => handleLinkClick(!!item.dropdown)}
-                      >
-                        {item.label}
-                      </Link>
+                      {item.dropdown ? (
+                        <button
+                          type="button"
+                          className={`cursor-pointer bg-transparent p-0 text-left ${
+                            isActive ? "text-[#A6CE39]" : "text-primary"
+                          }`}
+                        >
+                          {item.label}
+                        </button>
+                      ) : (
+                        <Link
+                          href={item.href}
+                          className={`${
+                            isActive ? "text-[#A6CE39]" : "text-primary"
+                          }`}
+                          onClick={(event) => handleLinkClick(false, event)}
+                        >
+                          {item.label}
+                        </Link>
+                      )}
                       {item.dropdown && (
                         <ChevronDown
                           size={14}
@@ -393,6 +434,9 @@ const Header = () => {
                                   onMouseEnter={() =>
                                     setOpenNestedDropdown(sub.label)
                                   }
+                                  onClick={(event) =>
+                                    handleNestedDropdownToggle(sub.label, event)
+                                  }
                                 >
                                   <span>{sub.label}</span>
                                   <ChevronRight size={14} />
@@ -417,8 +461,8 @@ const Header = () => {
                                                 ? "text-[#A6CE39]"
                                                 : ""
                                             }
-                                            onClick={() =>
-                                              handleLinkClick(false)
+                                            onClick={(event) =>
+                                              handleLinkClick(false, event)
                                             }
                                           >
                                             {nestedItem.label}
@@ -435,7 +479,7 @@ const Header = () => {
                                 className={
                                   pathname === sub.href ? "text-[#A6CE39]" : ""
                                 }
-                                onClick={() => handleLinkClick(false)}
+                                onClick={(event) => handleLinkClick(false, event)}
                               >
                                 {sub.label}
                               </Link>
@@ -481,7 +525,7 @@ const Header = () => {
             <Link
               href="/contact-us"
               passHref
-              onClick={() => handleLinkClick(false)}
+              onClick={(event) => handleLinkClick(false, event)}
             >
               <button className="bg-primary cursor-pointer text-secondary rounded-sm px-4 py-2 text-sm font-light w-full">
                 Contact us
@@ -532,8 +576,8 @@ const Header = () => {
                               <div className="flex flex-col">
                                 <div
                                   className="flex items-center justify-between px-3 py-2 hover:bg-gray-100 cursor-pointer"
-                                  onClick={() =>
-                                    toggleNestedDropdown(sub.label)
+                                  onClick={(event) =>
+                                    handleNestedDropdownToggle(sub.label, event)
                                   }
                                 >
                                   <span>{sub.label}</span>
@@ -565,7 +609,9 @@ const Header = () => {
                                             ? "text-[#A6CE39]"
                                             : ""
                                         }
-                                        onClick={() => handleLinkClick(false)}
+                                        onClick={(event) =>
+                                          handleLinkClick(false, event)
+                                        }
                                       >
                                         {nestedItem.label}
                                       </Link>
@@ -582,7 +628,7 @@ const Header = () => {
                                       ? "text-[#A6CE39]"
                                       : ""
                                   }
-                                  onClick={() => handleLinkClick(false)}
+                                  onClick={(event) => handleLinkClick(false, event)}
                                 >
                                   {sub.label}
                                 </Link>
@@ -598,7 +644,7 @@ const Header = () => {
                       className={`cursor-pointer ${
                         isActive ? "text-[#A6CE39]" : ""
                       }`}
-                      onClick={() => handleLinkClick(false)}
+                      onClick={(event) => handleLinkClick(false, event)}
                     >
                       {item.label}
                     </Link>
