@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 import { Mail, Twitter, Facebook, Linkedin } from "lucide-react";
 import Logo from "@/public/assets/connextions-logo-black-cropped.png";
 import xLogo from "@/public/assets/x-icon.png";
@@ -57,28 +58,28 @@ const Footer = () => {
               </h3>
               <ul className="space-y-3">
                 <li>
-                  <a
+                  <Link
                     href="/"
                     className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
                   >
                     Home
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/apple-macbooks"
                     className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
                   >
                     MacBooks
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/contact-us"
                     className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
                   >
                     Contact Us
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </div>
@@ -90,60 +91,60 @@ const Footer = () => {
               </h3>
               <ul className="space-y-3">
                 <li>
-                  <a
+                  <Link
                     href="/apple-solutions"
                     className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
                   >
                     Apple Solutions
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/apple-for-enterprise"
                     className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
                   >
                     Apple for Enterprise
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/apple-for-care"
                     className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
                   >
                     Applecare for Enterprise
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/apple-switch"
                     className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
                   >
                     Apple Switcher Program
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/apple-for-work"
                     className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
                   >
                     Apple for Work
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/apple-business-manager"
                     className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
                   >
                     Apple Business Manager
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/apple-consultant-partner"
                     className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
                   >
                     Apple Consultant Partner
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </div>
@@ -155,44 +156,92 @@ const Footer = () => {
               </h3>
               <ul className="space-y-3">
                 <li>
-                  <a
+                  <Link
                     href="/iphone-17"
                     className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
                   >
                     iPhone 17
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/iphone-17pro"
                     className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
                   >
                     iPhone 17 Pro
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/iphone-17air"
                     className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
                   >
                     iPhone 17 Air
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/apple-watch"
                     className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
                   >
                     Apple Watch SE3
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/apple-airpods"
                     className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
                   >
                     Apple Airpods Pro 3
-                  </a>
+                  </Link>
+                </li>
+                 <li>
+                  <Link
+                    href="/macbook-neo"
+                    className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
+                  >
+                    Macbook Neo
+                  </Link>
+                </li>
+                 <li>
+                  <Link
+                    href="/macbookpro-m5"
+                    className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
+                  >
+                   Macbook Pro M5
+                  </Link>
+                </li>
+                  <li>
+                  <Link
+                    href="/macbook-air"
+                    className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
+                  >
+                   Macbook Air M5
+                  </Link>
+                </li>
+                 <li>
+                  <Link
+                    href="/ipadpro"
+                    className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
+                  >
+                   iPad Pro
+                  </Link>
+                </li>
+                 <li>
+                  <Link
+                    href="/iphone-17e"
+                    className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
+                  >
+                   iPhone 17e
+                  </Link>
+                </li>
+                 <li>
+                  <Link
+                    href="/apple-ac-vc"
+                    className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
+                  >
+                   Av/Vc
+                  </Link>
                 </li>
               </ul>
             </div>

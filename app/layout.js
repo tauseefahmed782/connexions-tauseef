@@ -2,6 +2,7 @@ import { DM_Sans, Inter } from "next/font/google";
 import "./globals.css";
 import Header from "../components/common/Header";
 import Footer from "../components/common/Footer";
+import WhatsAppChatButton from "../components/common/WhatsAppChatButton";
 
 /* Default Font */
 const dmSans = DM_Sans({
@@ -34,6 +35,7 @@ export default function RootLayout({ children }) {
         <Header />
         <main className="flex-grow">{children}</main>
         <Footer />
+        <WhatsAppChatButton />
       </body>
     </html>
   );
