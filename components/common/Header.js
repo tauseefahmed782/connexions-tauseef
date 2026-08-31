@@ -103,6 +103,7 @@ const Header = () => {
             { label: "Av/Vc", href: "/apple-ac-vc" },
             { label: "Apple Watch SE3", href: "/apple-watch" },
             { label: "Apple Airpods Pro 3", href: "/apple-airpods" },
+            { label: "Mac studio with m5 max and m5 ultra", href: "/mac-studio-with-m5-max-and-m5-ultra" },
            
           ],
         },
