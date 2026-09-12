@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 import React, { useState, useEffect, useRef } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
@@ -65,6 +65,12 @@ const Header = () => {
     };
   }, []);
 
+  useEffect(() => {
+    setMenuOpen(false);
+    setOpenDropdown(null);
+    setOpenNestedDropdown(null);
+  }, [pathname]);
+
   // Helper function to check if nav item is active
   const isNavItemActive = (item) => {
     if (item.href && pathname === item.href) {
@@ -92,6 +98,7 @@ const Header = () => {
         {
           label: "Apple Launches",
           nested: [
+            { label: "iPhone 18 Pro", href: "/iphone-18-pro" },
             { label: "iPhone 17", href: "/iphone-17" },
             { label: "iPhone 17 Pro", href: "/iphone-17pro" },
             { label: "iPhone 17 Air", href: "/iphone-17air" },
@@ -104,6 +111,7 @@ const Header = () => {
             { label: "Apple Watch SE3", href: "/apple-watch" },
             { label: "Apple Airpods Pro 3", href: "/apple-airpods" },
             { label: "Mac studio with m5 max and m5 ultra", href: "/mac-studio-with-m5-max-and-m5-ultra" },
+            { label: "Mac mini with m6 and m5 pro", href: "/mac-mini-with-m6-and-m5-pro" },
            
           ],
         },
@@ -127,7 +135,7 @@ const Header = () => {
   return (
     <>
       {/* Top Social + Contact Bar */}
-      <div className="w-full px-4 sm:px-8 lg:px-20 py-4 bg-[#222] text-white flex flex-col sm:flex-row gap-3 justify-between items-center">
+      <div className="w-full px-4 py-3 sm:px-8 sm:py-4 lg:px-20 bg-[#222] text-white flex flex-col sm:flex-row gap-2 sm:gap-3 justify-between items-center">
         <div className="flex items-center gap-5 cursor-pointer">
           <Link
             href={"https://www.facebook.com/share/1DQySs4f9D/?mibextid=wwXIfr"}
@@ -154,11 +162,11 @@ const Header = () => {
             />
           </Link>
         </div>
-        <div className="flex items-center gap-3 text-white text-xs sm:text-sm">
+        <div className="flex flex-col items-center gap-1 text-center text-[11px] text-white min-[420px]:flex-row min-[420px]:gap-3 sm:text-sm">
           <a href="tel:+918149882686" className="hover:underline">
             Call: +91-8149882686
           </a>
-          <div className="w-px bg-white/50 h-5"></div>
+          <div className="hidden min-[420px]:block w-px bg-white/50 h-5"></div>
           <a
             href="mailto:nikhil@connexionsmobile.com"
             className="hover:underline"
@@ -171,7 +179,7 @@ const Header = () => {
       {/* Main Nav */}
       <div
         ref={navRef}
-        className="px-4 sm:px-8 lg:px-20 py-6 flex flex-col gap-4"
+        className="relative z-40 px-4 py-4 sm:px-8 sm:py-5 lg:px-20 lg:py-6 flex flex-col gap-4 bg-white"
       >
         {/* Top Row */}
         <div className="flex items-center justify-between">
@@ -183,7 +191,7 @@ const Header = () => {
                 height={80}
                 src={Logo.src || Logo}
                 alt="Logo"
-                className="h-auto w-auto max-h-[80px]"
+                className="h-auto w-auto max-w-[180px] max-h-[64px] sm:max-w-[220px] sm:max-h-[80px]"
               />
             </Link>
           </div>
@@ -212,8 +220,12 @@ const Header = () => {
 
           {/* Mobile Hamburger */}
           <button
-            className="md:hidden p-2 outline-none"
+            type="button"
+            className="md:hidden inline-flex h-11 w-11 items-center justify-center rounded-md border border-gray-200 outline-none"
             onClick={() => setMenuOpen(!menuOpen)}
+            aria-label={menuOpen ? "Close navigation menu" : "Open navigation menu"}
+            aria-expanded={menuOpen}
+            aria-controls="mobile-navigation"
           >
             {menuOpen ? (
               <X size={20} className="outline-none" />
@@ -508,7 +520,8 @@ const Header = () => {
 
         {/* Mobile Menu */}
         <div
-          className={`md:hidden flex-col text-sm gap-4 transition-all duration-300 ${
+          id="mobile-navigation"
+          className={`md:hidden max-h-[calc(100vh-9rem)] flex-col gap-4 overflow-y-auto border-t border-gray-200 pt-4 pb-6 text-sm transition-all duration-300 ${
             menuOpen ? "flex" : "hidden"
           }`}
         >
@@ -565,7 +578,7 @@ const Header = () => {
 
                       <ul
                         className={`overflow-hidden transition-all duration-300 ${
-                          openDropdown === item.label ? "max-h-[600px]" : "max-h-0"
+                          openDropdown === item.label ? "max-h-[1400px]" : "max-h-0"
                         }`}
                       >
                         {item.dropdown.map((sub) => (
@@ -594,7 +607,7 @@ const Header = () => {
                                 <ul
                                   className={`overflow-hidden transition-all duration-300 ${
                                     openNestedDropdown === sub.label
-                                      ? "max-h-96"
+                                      ? "max-h-[1000px]"
                                       : "max-h-0"
                                   }`}
                                 >
@@ -642,7 +655,7 @@ const Header = () => {
                   ) : (
                     <Link
                       href={item.href}
-                      className={`cursor-pointer ${
+                      className={`block w-full cursor-pointer py-1 ${
                         isActive ? "text-[#A6CE39]" : ""
                       }`}
                       onClick={(event) => handleLinkClick(false, event)}
@@ -673,3 +686,4 @@ const Header = () => {
 };
 
 export default Header;
+
