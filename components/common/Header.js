@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 import React, { useState, useEffect, useRef } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
@@ -99,6 +99,7 @@ const Header = () => {
           label: "Apple Launches",
           nested: [
             { label: "iPhone 18 Pro", href: "/iphone-18-pro" },
+            { label: "iPhone Duo", href: "/iphone-duo" },
             { label: "iPhone 17", href: "/iphone-17" },
             { label: "iPhone 17 Pro", href: "/iphone-17pro" },
             { label: "iPhone 17 Air", href: "/iphone-17air" },
@@ -319,8 +320,7 @@ const Header = () => {
                                     onMouseEnter={() =>
                                       setOpenNestedDropdown(sub.label)
                                     }
-                                    onClick={(event) =>
-                                      handleNestedDropdownToggle(sub.label, event)
+                                    onClick={(event) => { event.stopPropagation(); setOpenNestedDropdown(sub.label); }
                                     }
                                   >
                                     <span>{sub.label}</span>
@@ -341,11 +341,7 @@ const Header = () => {
                                           >
                                             <Link
                                               href={nestedItem.href}
-                                              className={
-                                                pathname === nestedItem.href
-                                                  ? "text-[#A6CE39]"
-                                                  : ""
-                                              }
+                                              className={`block -mx-3 -my-1 px-3 py-1 ${pathname === nestedItem.href ? "text-[#A6CE39]" : ""}`}
                                               onClick={(event) =>
                                                 handleLinkClick(false, event)
                                               }
@@ -361,11 +357,7 @@ const Header = () => {
                               ) : (
                                 <Link
                                   href={sub.href}
-                                  className={
-                                    pathname === sub.href
-                                      ? "text-[#A6CE39]"
-                                      : ""
-                                  }
+                                  className={`block -mx-3 -my-1 px-3 py-1 ${pathname === sub.href ? "text-[#A6CE39]" : ""}`}
                                   onClick={(event) => handleLinkClick(false, event)}
                                 >
                                   {sub.label}
@@ -447,8 +439,7 @@ const Header = () => {
                                   onMouseEnter={() =>
                                     setOpenNestedDropdown(sub.label)
                                   }
-                                  onClick={(event) =>
-                                    handleNestedDropdownToggle(sub.label, event)
+                                  onClick={(event) => { event.stopPropagation(); setOpenNestedDropdown(sub.label); }
                                   }
                                 >
                                   <span>{sub.label}</span>
@@ -469,11 +460,7 @@ const Header = () => {
                                         >
                                           <Link
                                             href={nestedItem.href}
-                                            className={
-                                              pathname === nestedItem.href
-                                                ? "text-[#A6CE39]"
-                                                : ""
-                                            }
+                                            className={`block -mx-3 -my-1 px-3 py-1 ${pathname === nestedItem.href ? "text-[#A6CE39]" : ""}`}
                                             onClick={(event) =>
                                               handleLinkClick(false, event)
                                             }
@@ -489,9 +476,7 @@ const Header = () => {
                             ) : (
                               <Link
                                 href={sub.href}
-                                className={
-                                  pathname === sub.href ? "text-[#A6CE39]" : ""
-                                }
+                                className={`block -mx-3 -my-1 px-3 py-1 ${pathname === sub.href ? "text-[#A6CE39]" : ""}`}
                                 onClick={(event) => handleLinkClick(false, event)}
                               >
                                 {sub.label}
@@ -618,11 +603,7 @@ const Header = () => {
                                     >
                                       <Link
                                         href={nestedItem.href}
-                                        className={
-                                          pathname === nestedItem.href
-                                            ? "text-[#A6CE39]"
-                                            : ""
-                                        }
+                                        className={`block -ml-6 -mr-3 -my-2 pl-6 pr-3 py-2 ${pathname === nestedItem.href ? "text-[#A6CE39]" : ""}`}
                                         onClick={(event) =>
                                           handleLinkClick(false, event)
                                         }
@@ -637,11 +618,7 @@ const Header = () => {
                               <div className="px-3 py-2 hover:bg-gray-100 cursor-pointer">
                                 <Link
                                   href={sub.href}
-                                  className={
-                                    pathname === sub.href
-                                      ? "text-[#A6CE39]"
-                                      : ""
-                                  }
+                                  className={`block -mx-3 -my-2 px-3 py-2 ${pathname === sub.href ? "text-[#A6CE39]" : ""}`}
                                   onClick={(event) => handleLinkClick(false, event)}
                                 >
                                   {sub.label}
