@@ -53,11 +53,51 @@ export default function PhoneLaunchSlider() {
                 pagination={{ clickable: true }}
                 autoplay={{ delay: 5000 }}
                 loop={true}
-                autoHeight={true}
-                className="w-full "
+                autoHeight={false}
+                className="home-launch-slider w-full"
             >
                
 
+                {[
+                    {
+                        heading: "Iphone 18 pro",
+                        description: "Pro further in business",
+                        image: "/assets/iphone18pro.webp",
+                        href: "/iphone-18-pro",
+                    },
+                    {
+                        heading: "Iphone Duo",
+                        description: "Coming soon",
+                        image: "/assets/iphone-duo.webp",
+                        href: "/iphone-duo",
+                    },
+                ].map((phone) => (
+                    <SwiperSlide key={phone.href}>
+                        <div className="bg-white max-w-7xl mx-auto">
+                            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+                                <div className="flex flex-col justify-center">
+                                    <h1 className="text-black font-medium text-3xl md:text-4xl lg:text-7xl font-inter leading-tight mb-6">
+                                        {phone.heading}
+                                    </h1>
+                                    <p className="text-[#7C7C7C] tracking-tight mb-8 font-normal text-base md:text-lg">
+                                        {phone.description}
+                                    </p>
+                                    <Link
+                                        href={phone.href}
+                                        className="bg-primary text-white px-8 py-3 rounded-full transition-colors text-sm font-normal w-fit"
+                                    >
+                                        Explore now
+                                    </Link>
+                                </div>
+                                <img
+                                    src={phone.image}
+                                    alt={phone.heading}
+                                    className="w-full h-auto object-contain rounded-xl"
+                                />
+                            </div>
+                        </div>
+                    </SwiperSlide>
+                ))}
                 {/* Slide 2 */}
                 {/* <SwiperSlide>
                     <PhoneLaunchPartnersSectionbkp/>
@@ -70,6 +110,21 @@ export default function PhoneLaunchSlider() {
                     <PhoneLaunchPartnersSection/>
                 </SwiperSlide>
             </Swiper>
+            <style jsx global>{`
+                .home-launch-slider > .swiper-wrapper {
+                    align-items: stretch;
+                }
+
+                .home-launch-slider > .swiper-wrapper > .swiper-slide {
+                    height: auto;
+                    display: flex;
+                    align-items: center;
+                }
+
+                .home-launch-slider > .swiper-wrapper > .swiper-slide > div {
+                    width: 100%;
+                }
+            `}</style>
             {/* Partners Auto-scrolling Swiper */}
           <div className="flex flex-col py-10 lg:flex-row lg:items-center lg:gap-6 max-w-7xl mx-auto">
           {/* Heading */}
