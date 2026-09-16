@@ -53,7 +53,8 @@ export default function PhoneLaunchSlider() {
                 pagination={{ clickable: true }}
                 autoplay={{ delay: 5000 }}
                 loop={true}
-                autoHeight={false}
+                autoHeight={true}
+                breakpoints={{ 768: { autoHeight: false } }}
                 className="home-launch-slider w-full"
             >
                
@@ -72,14 +73,14 @@ export default function PhoneLaunchSlider() {
                         href: "/iphone-duo",
                     },
                 ].map((phone) => (
-                    <SwiperSlide key={phone.href}>
-                        <div className="bg-white max-w-7xl mx-auto">
-                            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
-                                <div className="flex flex-col justify-center">
-                                    <h1 className="text-black font-medium text-3xl md:text-4xl lg:text-7xl font-inter leading-tight mb-6">
+                    <SwiperSlide key={phone.href} className="iphone-launch-slide">
+                        <div className="bg-white max-w-7xl mx-auto py-3 md:py-0">
+                            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8 items-center">
+                                <div className="flex flex-col justify-center items-center text-center md:items-start md:text-left min-w-0">
+                                    <h1 className="text-black font-medium text-3xl md:text-4xl lg:text-7xl font-inter leading-tight mb-3 md:mb-6">
                                         {phone.heading}
                                     </h1>
-                                    <p className="text-[#7C7C7C] tracking-tight mb-8 font-normal text-base md:text-lg">
+                                    <p className="text-[#7C7C7C] tracking-tight mb-5 md:mb-8 font-normal text-base md:text-lg">
                                         {phone.description}
                                     </p>
                                     <Link
@@ -123,6 +124,16 @@ export default function PhoneLaunchSlider() {
 
                 .home-launch-slider > .swiper-wrapper > .swiper-slide > div {
                     width: 100%;
+                }
+                @media (max-width: 767px) {
+                    .home-launch-slider > .swiper-wrapper {
+                        align-items: flex-start;
+                    }
+                }
+                @media (min-width: 768px) {
+                    .home-launch-slider > .swiper-wrapper {
+                        height: auto !important;
+                    }
                 }
             `}</style>
             {/* Partners Auto-scrolling Swiper */}
