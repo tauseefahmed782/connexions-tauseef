@@ -60,8 +60,8 @@ const MackbookNeo = () => {
     <div className="bg-white ">
       <div className="max-w-7xl mx-auto">
         {/* Main Content Section */}
-         <div className="grid grid-cols-1 md:grid-cols-[40%_60%]  gap-8 ">
-                          <div className="flex flex-col justify-center">
+         <div className="launch-banner-layout grid grid-cols-1 md:grid-cols-[40%_60%]  gap-8 ">
+                          <div className="launch-banner-copy flex flex-col justify-center">
                                {/* <div className="inline-flex  items-center bg-[##FBFBFB] rounded-full border border-[#D4D4D4A3] px-3 py-2">
       
       <span className="bg-black text-white text-sm font-inter font-medium px-4 py-1 rounded-full">
@@ -96,7 +96,7 @@ Introducing MacBook Neo - Powerful, Affordable, And the Easiest Way to Upgrade W
                             <img
                                 src="/assets/macbook-neo-banner.svg"
                                 alt="Slide 2"
-                                className="w-full rounded-xl md:mt-10 mt-0 lg:mt-10 sm:mt-10"
+                                className="launch-banner-media w-full rounded-xl md:mt-10 mt-0 lg:mt-10 sm:mt-10"
                             />
                     </div>
         <style jsx>{`

@@ -75,9 +75,9 @@ const PhoneLaunchPartnersSection = () => {
     <div className="bg-white ">
       <div className="max-w-7xl mx-auto">
         {/* Main Content Section */}
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-20">
+        <div className="launch-banner-layout grid grid-cols-1 lg:grid-cols-2 gap-12 mb-20">
           {/* Left Side - Text Content */}
-          <div className="flex flex-col justify-center">
+          <div className="launch-banner-copy flex flex-col justify-center">
             {/* Badge */}
             {/* <div className="inline-flex items-center gap-2 py-2 mb-6 w-fit">
               <div className="flex gap-3 items-center text-black font-medium text-sm md:text-base">
@@ -119,16 +119,16 @@ const PhoneLaunchPartnersSection = () => {
           </div>
 
           {/* Right Side - Phone Showcase Swiper */}
-          <div className="relative overflow-hidden">
+          <div className="launch-banner-media relative overflow-hidden">
             {/* Fade overlay for left and right edges */}
             <div className="absolute left-0 top-0 bottom-0 w-8 bg-gradient-to-r from-white to-transparent z-10 pointer-events-none"></div>
             <div className="absolute right-0 top-0 bottom-0 w-8 bg-gradient-to-l from-white to-transparent z-10 pointer-events-none"></div>
 
             <Marquee>
               {phoneCards.map((phone, index) => (
-                <div className="grid grid-cols-2 w-full max-w-md px-6 mx-4">
+                <div className="launch-phone-card grid grid-cols-2 w-full max-w-md px-6 mx-4">
                   {/* Phone Image Placeholder */}
-                  <div className="bg-gray-100 rounded-2xl  flex items-center justify-center col-span-2 mt-4">
+                  <div className="launch-phone-card-image bg-gray-100 rounded-2xl  flex items-center justify-center col-span-2 mt-4">
                     {/* Replace with actual iPhone image */}
                     <CommonImage
                       src={phone.bannerImg.src || phone.bannerImg}

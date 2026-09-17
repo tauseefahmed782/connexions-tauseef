@@ -53,8 +53,8 @@ export default function PhoneLaunchSlider() {
                 pagination={{ clickable: true }}
                 autoplay={{ delay: 5000 }}
                 loop={true}
-                autoHeight={true}
-                breakpoints={{ 768: { autoHeight: false } }}
+                autoHeight={false}
+
                 className="home-launch-slider w-full"
             >
                
@@ -75,8 +75,8 @@ export default function PhoneLaunchSlider() {
                 ].map((phone) => (
                     <SwiperSlide key={phone.href} className="iphone-launch-slide">
                         <div className="bg-white max-w-7xl mx-auto py-3 md:py-0">
-                            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8 items-center">
-                                <div className="flex flex-col justify-center items-center text-center md:items-start md:text-left min-w-0">
+                            <div className="launch-banner-layout grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8 items-center">
+                                <div className="launch-banner-copy flex flex-col justify-center items-center text-center md:items-start md:text-left min-w-0">
                                     <h1 className="text-black font-medium text-3xl md:text-4xl lg:text-7xl font-inter leading-tight mb-3 md:mb-6">
                                         {phone.heading}
                                     </h1>
@@ -93,7 +93,7 @@ export default function PhoneLaunchSlider() {
                                 <img
                                     src={phone.image}
                                     alt={phone.heading}
-                                    className="w-full h-auto object-contain rounded-xl"
+                                    className="launch-banner-media w-full h-auto object-contain rounded-xl"
                                 />
                             </div>
                         </div>
@@ -126,8 +126,69 @@ export default function PhoneLaunchSlider() {
                     width: 100%;
                 }
                 @media (max-width: 767px) {
-                    .home-launch-slider > .swiper-wrapper {
+                    .home-launch-slider {
+                        --launch-image-height: clamp(200px, 60vw, 260px);
+                    }
+
+                    .home-launch-slider > .swiper-wrapper > .swiper-slide {
                         align-items: flex-start;
+                    }
+
+                    .home-launch-slider > .swiper-wrapper > .swiper-slide > div {
+                        padding-top: 12px;
+                        padding-bottom: 12px;
+                    }
+
+                    .home-launch-slider .launch-banner-layout {
+                        grid-template-columns: minmax(0, 1fr);
+                        grid-template-rows: minmax(220px, auto) var(--launch-image-height);
+                        gap: 16px;
+                        margin-bottom: 0;
+                    }
+
+                    .home-launch-slider .launch-banner-copy {
+                        min-width: 0;
+                        align-items: center;
+                        justify-content: center;
+                        text-align: center;
+                    }
+
+                    .home-launch-slider .launch-banner-copy h1 {
+                        font-size: 28px;
+                        line-height: 1.2;
+                        margin-bottom: 10px;
+                    }
+
+                    .home-launch-slider .launch-banner-copy p {
+                        font-size: 14px;
+                        line-height: 20px;
+                        margin-bottom: 14px;
+                    }
+
+                    .home-launch-slider .launch-banner-media {
+                        width: 100%;
+                        height: var(--launch-image-height);
+                        min-width: 0;
+                        margin-top: 0;
+                        object-fit: contain;
+                        align-self: center;
+                    }
+
+                    .home-launch-slider .launch-phone-card {
+                        width: 200px;
+                        padding: 0 8px;
+                        margin: 0 8px;
+                    }
+
+                    .home-launch-slider .launch-phone-card-image {
+                        height: var(--launch-image-height);
+                        margin-top: 0;
+                    }
+
+                    .home-launch-slider .launch-phone-card-image img {
+                        width: 100%;
+                        height: 100%;
+                        object-fit: contain;
                     }
                 }
                 @media (min-width: 768px) {
