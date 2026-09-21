@@ -98,6 +98,7 @@ const Header = () => {
         {
           label: "Apple Launches",
           nested: [
+            { label: "Apple Watch 12", href: "/apple-watch-12" },
             { label: "iPhone 18 Pro", href: "/iphone-18-pro" },
             { label: "iPhone Duo", href: "/iphone-duo" },
             { label: "iPhone 17", href: "/iphone-17" },
@@ -108,7 +109,6 @@ const Header = () => {
                                      { label: "Macbook Neo", href: "/macbook-neo" },
             { label: "Macbook Pro M5", href: "/macbookpro-m5" },
             { label: "Macbook Air 5", href: "/macbook-air" },
-            { label: "Av/Vc", href: "/apple-ac-vc" },
             { label: "Apple Watch SE3", href: "/apple-watch" },
             { label: "Apple Airpods Pro 3", href: "/apple-airpods" },
             { label: "Mac studio with m5 max and m5 ultra", href: "/mac-studio-with-m5-max-and-m5-ultra" },

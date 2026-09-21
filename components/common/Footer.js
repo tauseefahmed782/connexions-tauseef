@@ -157,6 +157,30 @@ const Footer = () => {
               <ul className="space-y-3">
                 <li>
                   <Link
+                    href="/apple-watch-12"
+                    className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
+                  >
+                    Apple Watch 12
+                  </Link>
+                </li>
+                <li>
+                  <Link
+                    href="/iphone-18-pro"
+                    className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
+                  >
+                    iPhone 18 pro
+                  </Link>
+                </li>
+                <li>
+                  <Link
+                    href="/iphone-duo"
+                    className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
+                  >
+                   iPhone Duo
+                  </Link>
+                </li>
+                <li>
+                  <Link
                     href="/iphone-17"
                     className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
                   >

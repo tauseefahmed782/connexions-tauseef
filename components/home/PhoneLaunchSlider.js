@@ -68,7 +68,7 @@ export default function PhoneLaunchSlider() {
                     },
                     {
                         heading: "Iphone Duo",
-                        description: "Coming soon",
+                        description: "Delivery begins 23rd Oct",
                         image: "/assets/iphone-duo.webp",
                         href: "/iphone-duo",
                     },
@@ -107,9 +107,9 @@ export default function PhoneLaunchSlider() {
                     <MackbookNeo/>
                 </SwiperSlide>
                  {/* Slide 1 */}
-                <SwiperSlide>
+                {/* <SwiperSlide>
                     <PhoneLaunchPartnersSection/>
-                </SwiperSlide>
+                </SwiperSlide> */}
             </Swiper>
             <style jsx global>{`
                 .home-launch-slider > .swiper-wrapper {
