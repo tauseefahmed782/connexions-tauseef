@@ -92,6 +92,14 @@ const Footer = () => {
               <ul className="space-y-3">
                 <li>
                   <Link
+                    href="/apple-for-smb"
+                    className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
+                  >
+                    Apple for SMB
+                  </Link>
+                </li>
+                <li>
+                  <Link
                     href="/apple-solutions"
                     className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
                   >

@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 import React, { useState, useEffect, useRef } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
@@ -117,6 +117,7 @@ const Header = () => {
           ],
         },
         { label: "Apple Solutions", href: "/apple-solutions" },
+         { label: "Apple for SMB", href: "/apple-for-smb" },
         { label: "Apple for Enterprise", href: "/apple-for-enterprise" },
         { label: "Apple for Work", href: "/apple-for-work" },
         { label: "Apple Business Manager", href: "/apple-business-manager" },
