@@ -92,14 +92,6 @@ const Footer = () => {
               <ul className="space-y-3">
                 <li>
                   <Link
-                    href="/apple-for-smb"
-                    className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
-                  >
-                    Apple for SMB
-                  </Link>
-                </li>
-                <li>
-                  <Link
                     href="/apple-solutions"
                     className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
                   >
@@ -163,6 +155,38 @@ const Footer = () => {
                 New Launches
               </h3>
               <ul className="space-y-3">
+                <li>
+                  <Link
+                    href="/ipad-mini"
+                    className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
+                  >
+                    iPad mini
+                  </Link>
+                </li>
+                <li>
+                  <Link
+                    href="/imac_m6"
+                    className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
+                  >
+                    iMac M6
+                  </Link>
+                </li>
+                <li>
+                  <Link
+                    href="/mackbook_pro_m6"
+                    className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
+                  >
+                    MacBook Pro M6
+                  </Link>
+                </li>
+                <li>
+                  <Link
+                    href="/macbook-pro-with-proled-xdr-display"
+                    className="text-sm sm:text-base text-[#505050] hover:text-primary transition-colors"
+                  >
+                    MacBook Pro with PROLED XDR Display
+                  </Link>
+                </li>
                 <li>
                   <Link
                     href="/apple-watch-12"

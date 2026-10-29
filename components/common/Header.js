@@ -98,6 +98,10 @@ const Header = () => {
         {
           label: "Apple Launches",
           nested: [
+            { label: "iPad mini", href: "/ipad-mini" },
+            { label: "iMac M6", href: "/imac_m6" },
+            { label: "MacBook Pro M6", href: "/mackbook_pro_m6" },
+            { label: "MacBook Pro with PROLED XDR Display", href: "/macbook-pro-with-proled-xdr-display" },
             { label: "Apple Watch 12", href: "/apple-watch-12" },
             { label: "iPhone 18 Pro", href: "/iphone-18-pro" },
             { label: "iPhone Duo", href: "/iphone-duo" },
@@ -117,7 +121,6 @@ const Header = () => {
           ],
         },
         { label: "Apple Solutions", href: "/apple-solutions" },
-         { label: "Apple for SMB", href: "/apple-for-smb" },
         { label: "Apple for Enterprise", href: "/apple-for-enterprise" },
         { label: "Apple for Work", href: "/apple-for-work" },
         { label: "Apple Business Manager", href: "/apple-business-manager" },
